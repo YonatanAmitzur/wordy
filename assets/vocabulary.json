@@ -1,0 +1,698 @@
+{
+  "version": "1.1",
+  "words": {
+    "1": {
+      "trans": "Salut",
+      "base": "Hello (not formal)"
+    },
+    "2": {
+      "trans": "Acasă",
+      "base": "Home"
+    },
+    "3": {
+      "trans": "Seară",
+      "base": "Evening"
+    },
+    "4": {
+      "trans": "Dimineaţă",
+      "base": "Morning"
+    },
+    "5": {
+      "trans": "Bună",
+      "base": "Hello (not formal)"
+    },
+    "6": {
+      "trans": "Vă rog",
+      "base": "Please"
+    },
+    "7": {
+      "trans": "Da",
+      "base": "Yes"
+    },
+    "8": {
+      "trans": "Nu",
+      "base": "Not"
+    },
+    "9": {
+      "trans": "Exact",
+      "base": "Exact"
+    },
+    "10": {
+      "trans": "Excelent",
+      "base": "Excellent"
+    },
+    "11": {
+      "trans": "Mic",
+      "base": "Small"
+    },
+    "12": {
+      "trans": "Mare",
+      "base": "Big"
+    },
+    "13": {
+      "trans": "Pahar",
+      "base": "Glass"
+    },
+    "14": {
+      "trans": "Destul!",
+      "base": "Enough!"
+    },
+    "15": {
+      "trans": "Stai",
+      "base": "Stop"
+    },
+    "16": {
+      "trans": "Dreapta",
+      "base": "Right"
+    },
+    "17": {
+      "trans": "Stânga",
+      "base": "Left"
+    },
+    "18": {
+      "trans": "Drept",
+      "base": "Straight"
+    },
+    "19": {
+      "trans": "Sau",
+      "base": "Or"
+    },
+    "20": {
+      "trans": "Posibil",
+      "base": "Possible"
+    },
+    "21": {
+      "trans": "Se poate",
+      "base": "Possible (may)"
+    },
+    "22": {
+      "trans": "Înalt",
+      "base": "Tall"
+    },
+    "23": {
+      "trans": "Drăguț",
+      "base": "Cute"
+    },
+    "24": {
+      "trans": "Scund",
+      "base": "short"
+    },
+    "25": {
+      "trans": "Urat",
+      "base": "Ugly"
+    },
+    "26": {
+      "trans": "Fericita",
+      "base": "Happy"
+    },
+    "27": {
+      "trans": "Trist",
+      "base": "Sad"
+    },
+    "28": {
+      "trans": "Calmă",
+      "base": "Calm"
+    },
+    "29": {
+      "trans": "Nervoasă",
+      "base": "Angry"
+    },
+    "30": {
+      "trans": "Frumoasa",
+      "base": "Beautiful"
+    },
+    "31": {
+      "trans": "Mea",
+      "base": "My"
+    },
+    "32": {
+      "trans": "Însetat",
+      "base": "Thirsty"
+    },
+    "33": {
+      "trans": "Obosit",
+      "base": "Tired"
+    },
+    "34": {
+      "trans": "Ametita",
+      "base": "Dizzy"
+    },
+    "35": {
+      "trans": "Bun",
+      "base": "Good"
+    },
+    "36": {
+      "trans": "Pat",
+      "base": "Bed"
+    },
+    "37": {
+      "trans": "Rău",
+      "base": "Bad"
+    },
+    "38": {
+      "trans": "Fachil",
+      "base": "Easy"
+    },
+    "39": {
+      "trans": "Greu",
+      "base": "Hard"
+    },
+    "40": {
+      "trans": "Dificil",
+      "base": "Difficult"
+    },
+    "41": {
+      "trans": "Important",
+      "base": "Important"
+    },
+    "42": {
+      "trans": "Mașină",
+      "base": "Car"
+    },
+    "43": {
+      "trans": "Motocicletă",
+      "base": "Motorcycle"
+    },
+    "44": {
+      "trans": "Castle",
+      "base": "Castle"
+    },
+    "45": {
+      "trans": "Cazan",
+      "base": "Boiler"
+    },
+    "46": {
+      "trans": "Cald",
+      "base": "Warm"
+    },
+    "47": {
+      "trans": "Frig",
+      "base": "Cold"
+    },
+    "48": {
+      "trans": "bucătar",
+      "base": "Cook"
+    },
+    "49": {
+      "trans": "Bucătărie",
+      "base": "Kitchen"
+    },
+    "50": {
+      "trans": "Garaj",
+      "base": "Garage"
+    },
+    "51": {
+      "trans": "Porc",
+      "base": "Pork"
+    },
+    "52": {
+      "trans": "Alcool",
+      "base": "Alcohol"
+    },
+    "53": {
+      "trans": "Text",
+      "base": "Text"
+    },
+    "54": {
+      "trans": "Schi",
+      "base": "Ski"
+    },
+    "55": {
+      "trans": "Știi",
+      "base": "Know"
+    },
+    "56": {
+      "trans": "Avocat",
+      "base": "Lawyer"
+    },
+    "57": {
+      "trans": "Bărbat",
+      "base": "Man"
+    },
+    "58": {
+      "trans": "Femeia",
+      "base": "Woman"
+    },
+    "59": {
+      "trans": "Băiat",
+      "base": "Boy"
+    },
+    "60": {
+      "trans": "Tata",
+      "base": "Father"
+    },
+    "61": {
+      "trans": "Mama",
+      "base": "Mother"
+    },
+    "62": {
+      "trans": "Familie",
+      "base": "Family"
+    },
+    "63": {
+      "trans": "Prieten",
+      "base": "Friend"
+    },
+    "64": {
+      "trans": "Sora",
+      "base": "Sister"
+    },
+    "65": {
+      "trans": "Frate",
+      "base": "Brother"
+    },
+    "66": {
+      "trans": "Prenume",
+      "base": "First name"
+    },
+    "67": {
+      "trans": "Nume",
+      "base": "Name"
+    },
+    "68": {
+      "trans": "Vârstă",
+      "base": "Age"
+    },
+    "69": {
+      "trans": "Persoană",
+      "base": "Person"
+    },
+    "70": {
+      "trans": "Bebelus",
+      "base": "Baby"
+    },
+    "71": {
+      "trans": "Copil",
+      "base": "Child"
+    },
+    "72": {
+      "trans": "Adolescent",
+      "base": "Teenager"
+    },
+    "73": {
+      "trans": "Copii",
+      "base": "Children"
+    },
+    "74": {
+      "trans": "Adult",
+      "base": "Adult"
+    },
+    "75": {
+      "trans": "Leneş",
+      "base": "Lazy"
+    },
+    "76": {
+      "trans": "Rușinoasă",
+      "base": "Shy"
+    },
+    "77": {
+      "trans": "Pasivă",
+      "base": "Passive"
+    },
+    "78": {
+      "trans": "Lacom",
+      "base": "Greedy"
+    },
+    "79": {
+      "trans": "Activă",
+      "base": "Active"
+    },
+    "80": {
+      "trans": "Prietenoasă",
+      "base": "Friendly (feminine)"
+    },
+    "81": {
+      "trans": "Amuzant",
+      "base": "Funny"
+    },
+    "82": {
+      "trans": "Binevoitor",
+      "base": "Nice"
+    },
+    "83": {
+      "trans": "Deştept",
+      "base": "Smart"
+    },
+    "84": {
+      "trans": "Deget",
+      "base": "Finger"
+    },
+    "85": {
+      "trans": "Lampă",
+      "base": "Lamp"
+    },
+    "86": {
+      "trans": "Nas",
+      "base": "Nose"
+    },
+    "87": {
+      "trans": "Bani",
+      "base": "Money"
+    },
+    "88": {
+      "trans": "Și",
+      "base": "And"
+    },
+    "89": {
+      "trans": "Masculin",
+      "base": "Masculin"
+    },
+    "90": {
+      "trans": "Mulțumesc",
+      "base": "Thanks"
+    },
+    "91": {
+      "trans": "Pardon",
+      "base": "Excuse me"
+    },
+    "92": {
+      "trans": "Ajutor!",
+      "base": "Help!"
+    },
+    "93": {
+      "trans": "Atenția!",
+      "base": "Caution!"
+    },
+    "94": {
+      "trans": "Dumneavoastră",
+      "base": "Your"
+    },
+    "95": {
+      "trans": "La revedere",
+      "base": "Goodbye"
+    },
+    "96": {
+      "trans": "Pa pa",
+      "base": "Bye Bye"
+    },
+    "97": {
+      "trans": "Cum",
+      "base": "How"
+    },
+    "98": {
+      "trans": "Sotia",
+      "base": "wife"
+    }
+  },
+  "phrases": {
+    "100001": {
+      "trans": "Buna dimineata",
+      "base": "Good morning"
+    },
+    "100002": {
+      "trans": "Bună seara",
+      "base": "Good evening"
+    },
+    "100003": {
+      "trans": "Cum te cheamă?",
+      "base": "What's your name?"
+    },
+    "100004": {
+      "trans": "Vreau să discutăm puțin",
+      "base": "I want to talk a little"
+    },
+    "100005": {
+      "trans": "Doamne ajută",
+      "base": "God help"
+    },
+    "100006": {
+      "trans": "Acum eu lucrez",
+      "base": "Now I work"
+    },
+    "100007": {
+      "trans": "Cât costă?",
+      "base": "How much does it cost?"
+    },
+    "100008": {
+      "trans": "Iasă scumpi",
+      "base": "It's expensive"
+    },
+    "100009": {
+      "trans": "Eu acum învăţ româneşte",
+      "base": "I am now learning Romanian"
+    },
+    "100010": {
+      "trans": "Cu placere",
+      "base": "With pleasure"
+    },
+    "100011": {
+      "trans": "Cu drag",
+      "base": "Dearfully"
+    },
+    "100012": {
+      "trans": "Ți-e foame?",
+      "base": "You are hungry?"
+    },
+    "100013": {
+      "trans": "Vrei să mergem la plimbare?",
+      "base": "You want to go for a walk?"
+    },
+    "100014": {
+      "trans": "Ce zici de un pahar de vin?",
+      "base": "How about a glass of wine?"
+    },
+    "100015": {
+      "trans": "Roșu sau alb",
+      "base": "Red or white"
+    },
+    "100016": {
+      "trans": "Ce se aude la tine?",
+      "base": "How are you?"
+    },
+    "100017": {
+      "trans": "Părinții mei sunt români",
+      "base": "My parents are Romanian"
+    },
+    "100018": {
+      "trans": "Tatăl meu s-a născut în Iași",
+      "base": "My father was born in Yash"
+    },
+    "100019": {
+      "trans": "Tel Aviv este în Israel",
+      "base": "Tel Aviv is in Israel"
+    },
+    "100020": {
+      "trans": "Vremea aici nu este prietenoasă",
+      "base": "The weather here is not friendly"
+    },
+    "100021": {
+      "trans": "Unde este strada Calea Turzii?",
+      "base": "Where is Calea Turzii Street?"
+    },
+    "100022": {
+      "trans": "Ești liber să vorbim?",
+      "base": "Are you free to talk"
+    },
+    "100023": {
+      "trans": "Cu te simți azi?",
+      "base": "How are you feeling today?"
+    },
+    "100024": {
+      "trans": "Mă duc la Lucrez",
+      "base": "I'm going to work"
+    },
+    "100025": {
+      "trans": "Ce faci după lucrez?",
+      "base": "What do you do after work?"
+    },
+    "100026": {
+      "trans": "Putem să ne întâlnim?",
+      "base": "Can we meet?"
+    },
+    "100027": {
+      "trans": "Cand si unde?",
+      "base": "When and where?"
+    },
+    "100028": {
+      "trans": "Vom vorbi",
+      "base": "We will talk"
+    },
+    "100029": {
+      "trans": "Mă puteți ajutor, vă rog?",
+      "base": "Can you help me, please?"
+    },
+    "100030": {
+      "trans": "Ce mănânci acum?",
+      "base": "What are you eating now?"
+    },
+    "100031": {
+      "trans": "Ce ai mancat azi?",
+      "base": "What did you eat today?"
+    },
+    "100032": {
+      "trans": "Mă cheamă Johnny",
+      "base": "My name is Johnny"
+    },
+    "100033": {
+      "trans": "Eu sunt americană",
+      "base": "I'm American"
+    },
+    "100034": {
+      "trans": "Sunt din mare Bretan",
+      "base": "I'm from Great Britain"
+    },
+    "100035": {
+      "trans": "Eu sunt",
+      "base": "I am"
+    },
+    "100036": {
+      "trans": "Tu esti",
+      "base": "You are"
+    },
+    "100037": {
+      "trans": "Ea este",
+      "base": "El este"
+    },
+    "100038": {
+      "trans": "Noi suntem",
+      "base": "We are"
+    },
+    "100039": {
+      "trans": "El este",
+      "base": "He is"
+    },
+    "100040": {
+      "trans": "Voi sunteți",
+      "base": "You are (many)"
+    },
+    "100041": {
+      "trans": "El sunt",
+      "base": "You are (many masculin)"
+    },
+    "100042": {
+      "trans": "Ela sunt",
+      "base": "You are (many feminine)"
+    },
+    "100043": {
+      "trans": "Pare bine sa te cunosc",
+      "base": "Nice to meet you"
+    },
+    "100044": {
+      "trans": "Mulțumesc mult",
+      "base": "Thanks a lot"
+    },
+    "100045": {
+      "trans": "Îmi pare rău",
+      "base": "I am sorry"
+    },
+    "100046": {
+      "trans": "Cât curând",
+      "base": "ASPA"
+    },
+    "100047": {
+      "trans": "Pe curând",
+      "base": "See you"
+    },
+    "100048": {
+      "trans": "Nu vorbesc bine românește",
+      "base": "I do not speak well Romanian"
+    },
+    "100049": {
+      "trans": "Vorbiti engleza?",
+      "base": "Speak English?"
+    },
+    "100050": {
+      "trans": "Vorbesc cineva aici engleza?",
+      "base": "Someone here speaks English?"
+    },
+    "100051": {
+      "trans": "Noapte buna",
+      "base": "Good night"
+    },
+    "100052": {
+      "trans": "Baftă bune",
+      "base": "Good luck"
+    },
+    "100053": {
+      "trans": "Poftă bună",
+      "base": "Good appetite"
+    },
+    "100054": {
+      "trans": "Nu inteleg",
+      "base": "I do not understand"
+    },
+    "100055": {
+      "trans": "Nota de plată vă rog",
+      "base": "The check please"
+    },
+    "100056": {
+      "trans": "Unde e toaleta?",
+      "base": "Where's the toilet?"
+    },
+    "100057": {
+      "trans": "Cum numește soția dumneavoastră",
+      "base": "What's your wife's name?"
+    },
+    "100058": {
+      "trans": "Soția mea se numește Ileana Avram",
+      "base": "My wife's name is Ileana Avram"
+    }
+  },
+  "conversations": {
+    "1000001": {
+      "trans": "stii cateva",
+      "base": "you know some",
+      "group_id": "a"
+    },
+    "1000002": {
+      "trans": "Spune",
+      "base": "Say",
+      "group_id": "a"
+    },
+    "1000004": {
+      "trans": "Eu am dor de tine",
+      "base": "I miss you",
+      "group_id": "a"
+    },
+    "1000005": {
+      "trans": "Salut, Eu sunt Johnny",
+      "base": "Hello, I'm Johnny",
+      "group_id": "b"
+    },
+    "1000006": {
+      "trans": "Sunt colega cea nouă",
+      "base": "I'm the new colleague",
+      "group_id": "b"
+    },
+    "1000007": {
+      "trans": "Mă bucur să te cunosc",
+      "base": "Nice to meet you",
+      "group_id": "b"
+    },
+    "1000008": {
+      "trans": "Și eu",
+      "base": "You to",
+      "group_id": "b"
+    },
+    "1000009": {
+      "trans": "Ce zici de o cafea",
+      "base": "How about a Coffee",
+      "group_id": "b"
+    },
+    "1000010": {
+      "trans": "Suna bine",
+      "base": "Sounds good",
+      "group_id": "b"
+    },
+    "1000011": {
+      "trans": "Numele meu este Johnny",
+      "base": "My name is Johnny",
+      "group_id": "c"
+    },
+    "1000012": {
+      "trans": "Salut",
+      "base": "Hello (not formal)",
+      "group_id": "c"
+    },
+    "1000013": {
+      "trans": "De unde esti?",
+      "base": "Where are you from?",
+      "group_id": "c"
+    },
+    "1000014": {
+      "trans": "Locuiesc în Tel Aviv",
+      "base": "i live in Tel aviv",
+      "group_id": "c"
+    }
+  }
+}

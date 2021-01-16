@@ -1,0 +1,1 @@
+enum PracticeType { WORDS, PHRASES, CONVERSATIONS }
