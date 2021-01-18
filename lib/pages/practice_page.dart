@@ -33,6 +33,7 @@ class _PracticePageState extends State<PracticePage> {
   List<Map<String, dynamic>> queryRes = [];
   int index = 0;
   int oldIndex = 0;
+  bool isFirstLoad = true;
   Map<String, dynamic> currentRec;
 
   int startNumber = 0;
@@ -179,7 +180,7 @@ class _PracticePageState extends State<PracticePage> {
         selectIndex = false;
       }
 
-      if(oldIndex != index || (index == oldIndex && index == 0)) {
+      if(isFirstLoad) {
         initRead = true;
       }
 
@@ -664,6 +665,7 @@ class _PracticePageState extends State<PracticePage> {
       await dbHelper.update(obj, DatabaseTableParams.vocabularyTableName);
     }
     await flutterTts.stop();
+    isFirstLoad = true;
     setState(() {
       queryRes.removeAt(index);
       selectIndex = true;
@@ -699,6 +701,9 @@ class _PracticePageState extends State<PracticePage> {
     await flutterTts.setLanguage("en-US");
     flutterTts.speak(currentBase);
     initRead = false;
+    if(isFirstLoad) {
+      isFirstLoad = false;
+    }
   }
 
   void readTrans() async {
