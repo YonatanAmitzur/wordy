@@ -77,6 +77,32 @@ class DatabaseHelper {
     return [];
   }
 
+
+  Future<List<Map<String,dynamic>>> getVocabularyByTypeAndScore(int type, int score) async {
+    Database db = await instance.database;
+    List<Map<String,dynamic>> res;
+    if(score == null) {
+      res = await db.rawQuery(''
+          'SELECT * '
+          'FROM ${DatabaseTableParams.vocabularyTableName} '
+          'WHERE ${DatabaseTableParams.vocabularyTableColumnTypeId} = ? '
+          'AND ${DatabaseTableParams.vocabularyTableColumnScore} IS NULL'
+          , [type]);
+    } else {
+      res = await db.rawQuery(''
+          'SELECT * '
+          'FROM ${DatabaseTableParams.vocabularyTableName} '
+          'WHERE ${DatabaseTableParams.vocabularyTableColumnTypeId} = ? '
+          'AND ${DatabaseTableParams.vocabularyTableColumnScore} = ?'
+          , [type, score]);
+    }
+
+    if(res != null && res.length > 0) {
+      return res;
+    }
+    return [];
+  }
+
   Future<List<Map<String,dynamic>>> getVocabularyScores() async {
     Database db = await instance.database;
     List<Map<String,dynamic>> res = await db.rawQuery(

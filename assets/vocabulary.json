@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "words": {
     "1": {
       "trans": "Salut",
@@ -392,6 +392,278 @@
     "98": {
       "trans": "Sotia",
       "base": "wife"
+    },
+    "99": {
+      "trans": "Cine",
+      "base": "Who"
+    },
+    "100": {
+      "trans": "Cand",
+      "base": "When"
+    },
+    "101": {
+      "trans": "Unde",
+      "base": "Where"
+    },
+    "102": {
+      "trans": "Sunteți",
+      "base": "Are"
+    },
+    "103": {
+      "trans": "Birou",
+      "base": "Office"
+    },
+    "104": {
+      "trans": "Afară",
+      "base": "Outside"
+    },
+    "105": {
+      "trans": "Inginer",
+      "base": "Engineer"
+    },
+    "106": {
+      "trans": "Micul dejun",
+      "base": "Breakfast"
+    },
+    "107": {
+      "trans": "Dejun",
+      "base": "Lunch"
+    },
+    "108": {
+      "trans": "Cină",
+      "base": "Supper"
+    },
+    "109": {
+      "trans": "Pui",
+      "base": "Chicken"
+    },
+    "100": {
+      "trans": "Rata",
+      "base": "Duck"
+    },
+    "111": {
+      "trans": "Carne de vita",
+      "base": "Beef"
+    },
+    "112": {
+      "trans": "Peste",
+      "base": "Fish"
+    },
+    "113": {
+      "trans": "Jambon or Sunca",
+      "base": "Ham"
+    },
+    "114": {
+      "trans": "Cârnati",
+      "base": "Sausages"
+    },
+    "115": {
+      "trans": "Brânză",
+      "base": "Cheese"
+    },
+    "116": {
+      "trans": "Oua",
+      "base": "Eggs"
+    },
+    "117": {
+      "trans": "Salata",
+      "base": "Salad"
+    },
+    "118": {
+      "trans": "Roșii",
+      "base": "Tomatoes"
+    },
+    "119": {
+      "trans": "Ciuperci",
+      "base": "Mushrooms"
+    },
+    "120": {
+      "trans": "Fructe",
+      "base": "Fruit"
+    },
+    "121": {
+      "trans": "Pâine",
+      "base": "Bread"
+    },
+    "122": {
+      "trans": "Pâine prajita",
+      "base": "Toast"
+    },
+    "123": {
+      "trans": "Taitei",
+      "base": "Noodles"
+    },
+    "124": {
+      "trans": "Orez",
+      "base": "Rice"
+    },
+    "125": {
+      "trans": "Fasole",
+      "base": "Beans"
+    },
+    "126": {
+      "trans": "Cafea",
+      "base": "Coffee"
+    },
+    "127": {
+      "trans": "Ceai",
+      "base": "Tea"
+    },
+    "128": {
+      "trans": "Suc",
+      "base": "Juice"
+    },
+    "129": {
+      "trans": "Apa",
+      "base": "Water"
+    },
+    "130": {
+      "trans": "Bere",
+      "base": "Beer"
+    },
+    "131": {
+      "trans": "Vin",
+      "base": "Wine"
+    },
+    "132": {
+      "trans": "Sare",
+      "base": "Salt"
+    },
+    "133": {
+      "trans": "Pepper",
+      "base": "Pepper"
+    },
+    "134": {
+      "trans": "Unt",
+      "base": "Butter"
+    },
+    "135": {
+      "trans": "Ospatar",
+      "base": "Waiter"
+    },
+    "136": {
+      "trans": "Merge",
+      "base": "Go"
+    },
+    "137": {
+      "trans": "A ajunge",
+      "base": "To arrive"
+    },
+    "138": {
+      "trans": "Piață",
+      "base": "Market"
+    },
+    "139": {
+      "trans": "Întreba",
+      "base": "Ask"
+    },
+    "130": {
+      "trans": "Amabil",
+      "base": "Kind"
+    },
+    "141": {
+      "trans": "Scump",
+      "base": "Expensive"
+    },
+    "142": {
+      "trans": "Ieftin",
+      "base": "Cheap"
+    },
+    "143": {
+      "trans": "Pasta de dinti",
+      "base": "Toothpaste"
+    },
+    "144": {
+      "trans": "Periuta de dinti",
+      "base": "Toothbrush"
+    },
+    "145": {
+      "trans": "Tampoane",
+      "base": "Tampons"
+    },
+    "146": {
+      "trans": "Sapun",
+      "base": "Soap"
+    },
+    "147": {
+      "trans": "Anti-inflamator",
+      "base": "Pain reliever"
+    },
+    "148": {
+      "trans": "Medicamente de stomac",
+      "base": "Stomach medicine"
+    },
+    "149": {
+      "trans": "Medicamente de raceala",
+      "base": "Medicine for a cold"
+    },
+    "150": {
+      "trans": "O lama de ras",
+      "base": "A razor blade"
+    },
+    "151": {
+      "trans": "Bronzator",
+      "base": "Sunblock lotion"
+    },
+    "152": {
+      "trans": "O carte postala",
+      "base": "A postcard"
+    },
+    "153": {
+      "trans": "timbre",
+      "base": "Postage stamps"
+    },
+    "154": {
+      "trans": "Hârtie de scris",
+      "base": "Writing paper"
+    },
+    "155": {
+      "trans": "Un stilou",
+      "base": "A pen"
+    },
+    "156": {
+      "trans": "Carti",
+      "base": "Books"
+    },
+    "157": {
+      "trans": "Reviste",
+      "base": "Magazines"
+    },
+    "158": {
+      "trans": "Un ziar",
+      "base": "A newspaper"
+    },
+    "159": {
+      "trans": "Eu",
+      "base": "I"
+    },
+    "160": {
+      "trans": "Noi",
+      "base": "We"
+    },
+    "161": {
+      "trans": "Tu",
+      "base": "You (single)"
+    },
+    "162": {
+      "trans": "Voi",
+      "base": "You (many)"
+    },
+    "163": {
+      "trans": "El",
+      "base": "He"
+    },
+    "164": {
+      "trans": "Ea",
+      "base": "She"
+    },
+    "165": {
+      "trans": "Ei",
+      "base": "They (masculine)"
+    },
+    "166": {
+      "trans": "Ele (feminine)",
+      "base": ""
     }
   },
   "phrases": {
@@ -541,7 +813,7 @@
     },
     "100037": {
       "trans": "Ea este",
-      "base": "El este"
+      "base": "She is"
     },
     "100038": {
       "trans": "Noi suntem",
@@ -556,7 +828,7 @@
       "base": "You are (many)"
     },
     "100041": {
-      "trans": "El sunt",
+      "trans": "Ei sunt",
       "base": "You are (many masculin)"
     },
     "100042": {
@@ -626,6 +898,206 @@
     "100058": {
       "trans": "Soția mea se numește Ileana Avram",
       "base": "My wife's name is Ileana Avram"
+    },
+    "100059": {
+      "trans": "Cine vinit?",
+      "base": "Who came?"
+    },
+    "100060": {
+      "trans": "Cum arăta?",
+      "base": "How is it?"
+    },
+    "100061": {
+      "trans": "Când a sosit?",
+      "base": "When did he arrive?"
+    },
+    "100062": {
+      "trans": "Unde este?",
+      "base": "Where is it?"
+    },
+    "100063": {
+      "trans": "Completați întrebările",
+      "base": "Fill in the questions"
+    },
+    "100064": {
+      "trans": "O masă pentru două persoane, vă rog",
+      "base": "A table for two peoplem, please"
+    },
+    "100065": {
+      "trans": "Pot să vad meniul",
+      "base": "May I see the menu"
+    },
+    "100066": {
+      "trans": "Pot să mă uit în apartament",
+      "base": "Can i look in the apartment"
+    },
+    "100067": {
+      "trans": "Aveți o specialitate în meniu",
+      "base": "You have a specialty on the menu"
+    },
+    "100068": {
+      "trans": "Aveți o specialitate locala",
+      "base": "You have a local specialty"
+    },
+    "100069": {
+      "trans": "Sunt vegetarian",
+      "base": "I am vegetarian"
+    },
+    "100070": {
+      "trans": "Îmi place să mănânc carne de vită",
+      "base": "I like to eat beef"
+    },
+    "100071": {
+      "trans": "Eu mănânc doar pește",
+      "base": "I only eat fish"
+    },
+    "100072": {
+      "trans": "Puteti sa o faceti mai putin grasa, va rog?",
+      "base": "Can you make it less fat, please?"
+    },
+    "100073": {
+      "trans": "As vrea",
+      "base": "I would like"
+    },
+    "100074": {
+      "trans": "Vreau o mâncare care conține",
+      "base": "I want a food that contains"
+    },
+    "100075": {
+      "trans": "Legume proaspete",
+      "base": "Fresh vegetables"
+    },
+    "100076": {
+      "trans": "As dori un pahar de",
+      "base": "I would like a glass of"
+    },
+    "100077": {
+      "trans": "As dori un sticla de",
+      "base": "I would like a bottle of"
+    },
+    "100078": {
+      "trans": "As dori niste",
+      "base": "I would like some"
+    },
+    "100079": {
+      "trans": "Sunt gata",
+      "base": "I'm ready"
+    },
+    "100070": {
+      "trans": "A fost delicios",
+      "base": "It was delicious"
+    },
+    "100071": {
+      "trans": "Puteti să strangeti farfuriile?",
+      "base": "Please clear the plates"
+    },
+    "100072": {
+      "trans": "Eu am un student albanez (masculin)",
+      "base": "I have an Albanian student (masculin)"
+    },
+    "100073": {
+      "trans": "Eu am o studentă albaneză (feminin)",
+      "base": "I have an Albanian student (feminin)"
+    },
+    "100074": {
+      "trans": "Doi studenţi (masculin)",
+      "base": "Two students (masculin)"
+    },
+    "100075": {
+      "trans": "Două studente (masculin)",
+      "base": "Two students (feminin)"
+    },
+    "100076": {
+      "trans": "Trei studenţi (masculin)",
+      "base": "Three students (masculin)"
+    },
+    "100077": {
+      "trans": "Trei studente (feminin)",
+      "base": "Three students (feminin)"
+    },
+    "100078": {
+      "trans": "Îmi cer scuze",
+      "base": "Excuse me"
+    },
+    "100079": {
+      "trans": "Aveti asta în masura mea? ",
+      "base": "Do you have this in my size?"
+    },
+    "100080": {
+      "trans": "Cât costa asta?",
+      "base": "How much is this?"
+    },
+    "100081": {
+      "trans": "Este prea scump.",
+      "base": "That's too expensive."
+    },
+    "100082": {
+      "trans": "Ai accepta această haină",
+      "base": "You would accept this coat"
+    },
+    "100083": {
+      "trans": "Nu-mi permit",
+      "base": "I can't afford it"
+    },
+    "100084": {
+      "trans": "Nu vreau aceasta",
+      "base": "I don't want it"
+    },
+    "100085": {
+      "trans": "Ma înselati",
+      "base": "You're cheating me"
+    },
+    "100086": {
+      "trans": "Nu sunt interesat",
+      "base": "I'm not interested"
+    },
+    "100087": {
+      "trans": "Bine o sa il iau",
+      "base": "Okay, I'll take it"
+    },
+    "100088": {
+      "trans": "Îmi puteti da o punga?",
+      "base": "Can I have a bag?"
+    },
+    "100089": {
+      "trans": "Trimiteti în strainatate? ",
+      "base": "Do you ship overseas?"
+    },
+    "100090": {
+      "trans": "Am nevoie de",
+      "base": "I need"
+    },
+    "100091": {
+      "trans": "Eu am",
+      "base": "I have"
+    },
+    "100092": {
+      "trans": "Noi avem",
+      "base": "We have"
+    },
+    "100093": {
+      "trans": "Tu ai",
+      "base": "Tou have"
+    },
+    "100094": {
+      "trans": "Voi aveți",
+      "base": "You have"
+    },
+    "100095": {
+      "trans": "El are",
+      "base": "He has"
+    },
+    "100096": {
+      "trans": "Ei au",
+      "base": "They have (masculine)"
+    },
+    "100097": {
+      "trans": "Ea are",
+      "base": "She has"
+    },
+    "100098": {
+      "trans": "Ele au",
+      "base": "They have (feminine)"
     }
   },
   "conversations": {
@@ -693,6 +1165,51 @@
       "trans": "Locuiesc în Tel Aviv",
       "base": "i live in Tel aviv",
       "group_id": "c"
+    },
+    "1000015": {
+      "trans": "Bună ziua!",
+      "base": "Hello!",
+      "group_id": "d"
+    },
+    "1000016": {
+      "trans": "Îmi cer scuze, vreau să știu cum se numește piața asta în care ne aflăm",
+      "base": "Excuse me, I want to know what is the name of the square where we are",
+      "group_id": "d"
+    },
+    "1000017": {
+      "trans": "Se numește Piața Universității. Unde vreți să ajungeți?",
+      "base": "It is called Piața Universității. Where do you want to go?",
+      "group_id": "d"
+    },
+    "1000018": {
+      "trans": "La Piața Unirii",
+      "base": "Unirii Square",
+      "group_id": "d"
+    },
+    "1000019": {
+      "trans": "Trebuie să mergeți cu metroul o stație sau pe jos",
+      "base": "You have to go one station by metro or by foo",
+      "group_id": "d"
+    },
+    "1000020": {
+      "trans": "Este departe?",
+      "base": "Is it far?",
+      "group_id": "d"
+    },
+    "1000021": {
+      "trans": "Nu, este aproape, în maximum zece minute ajungeți",
+      "base": "No, it's close, you'll arrive in a maximum of ten minutes",
+      "group_id": "d"
+    },
+    "1000022": {
+      "trans": "Vă mulțumesc, sunteți foarte amabil. O zi bună!",
+      "base": "Thank you, you are very kind. Have a nice day!",
+      "group_id": "d"
+    },
+    "1000023": {
+      "trans": "O zi bună și dumneavoastră",
+      "base": "Have a nice day you too",
+      "group_id": "d"
     }
   }
 }

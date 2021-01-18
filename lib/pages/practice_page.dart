@@ -20,17 +20,19 @@ class PracticePage extends StatefulWidget {
 class _PracticePageState extends State<PracticePage> {
   final dbHelper = DatabaseHelper.instance;
   FlutterTts flutterTts = FlutterTts();
-
+  FlutterTts flutterTtsBase = FlutterTts();
 
   PracticeType practiceType;
   String title;
   int maxTextRow = 1;
   int maxTextSize = 32;
   bool showAnswer = false;
+  bool initRead = false;
 
   bool isLoadingDb = true;
   List<Map<String, dynamic>> queryRes = [];
   int index = 0;
+  int oldIndex = 0;
   Map<String, dynamic> currentRec;
 
   int startNumber = 0;
@@ -43,23 +45,105 @@ class _PracticePageState extends State<PracticePage> {
   String currentTrans = '';
   int currentId = -1;
 
+  String titleColor;
+
   _PracticePageState({this.practiceType}) {
+    if(practiceType == PracticeType.WORDS_GREEN ||
+       practiceType == PracticeType.CONVERSATIONS_GREEN ||
+       practiceType == PracticeType.PHRASES_GREEN
+    ) {
+      titleColor = 'GREEN';
+    } else if(practiceType == PracticeType.WORDS_RED ||
+        practiceType == PracticeType.CONVERSATIONS_RED ||
+        practiceType == PracticeType.PHRASES_RED
+    ) {
+      titleColor = 'RED';
+    } else if(practiceType == PracticeType.WORDS_YELLOW ||
+        practiceType == PracticeType.CONVERSATIONS_YELLOW ||
+        practiceType == PracticeType.PHRASES_YELLOW
+    ) {
+      titleColor = 'YELLOW';
+    } else if(practiceType == PracticeType.WORDS_GREY ||
+        practiceType == PracticeType.CONVERSATIONS_GREY ||
+        practiceType == PracticeType.PHRASES_GREY
+    ) {
+      titleColor = 'GREY';
+    }
+
+    String initType;
     switch (practiceType) {
       case PracticeType.WORDS:
-        title = 'Words';
-        maxTextRow = 1;
-        maxTextSize = 32;
+        initType = 'words';
         break;
       case PracticeType.PHRASES:
-        title = 'Phrases';
-        maxTextRow = 3;
-        maxTextSize = 26;
+        initType = 'phrases';
         break;
       case PracticeType.CONVERSATIONS:
-        title = 'Conversations';
-        maxTextRow = 4;
-        maxTextSize = 22;
+        initType = 'conversation';
         break;
+      case PracticeType.WORDS_GREEN:
+        initType = 'words';
+        titleColor = 'GREEN';
+        break;
+      case PracticeType.PHRASES_GREEN:
+        initType = 'phrases';
+        titleColor = 'GREEN';
+        break;
+      case PracticeType.CONVERSATIONS_GREEN:
+        initType = 'conversation';
+        titleColor = 'GREEN';
+        break;
+      case PracticeType.WORDS_YELLOW:
+        initType = 'words';
+        titleColor = 'YELLOW';
+        break;
+      case PracticeType.PHRASES_YELLOW:
+        initType = 'phrases';
+        titleColor = 'YELLOW';
+        break;
+      case PracticeType.CONVERSATIONS_YELLOW:
+        initType = 'conversation';
+        titleColor = 'YELLOW';
+        break;
+      case PracticeType.WORDS_RED:
+        initType = 'words';
+        titleColor = 'RED';
+        break;
+      case PracticeType.PHRASES_RED:
+        initType = 'phrases';
+        titleColor = 'RED';
+        break;
+      case PracticeType.CONVERSATIONS_RED:
+        initType = 'conversation';
+        titleColor = 'RED';
+        break;
+      case PracticeType.WORDS_GREY:
+        initType = 'words';
+        titleColor = 'GREY';
+        break;
+      case PracticeType.PHRASES_GREY:
+        initType = 'phrases';
+        titleColor = 'GREY';
+        break;
+      case PracticeType.CONVERSATIONS_GREY:
+        initType = 'conversation';
+        titleColor = 'GREY';
+        break;
+
+    }
+
+    if(initType == 'words') {
+      title = 'Words';
+      maxTextRow = 1;
+      maxTextSize = 32;
+    } else if(initType == 'phrases') {
+      title = 'Phrases';
+      maxTextRow = 3;
+      maxTextSize = 26;
+    } if(initType == 'conversation') {
+      title = 'Conversations';
+      maxTextRow = 4;
+      maxTextSize = 22;
     }
   }
 
@@ -80,6 +164,7 @@ class _PracticePageState extends State<PracticePage> {
   Widget build(BuildContext context) {
     bool endOfLesson = false;
     if (queryRes.length > 0) {
+      oldIndex = index;
       if (startNumber == 0) {
         startNumber++;
       }
@@ -94,10 +179,20 @@ class _PracticePageState extends State<PracticePage> {
         selectIndex = false;
       }
 
+      if(oldIndex != index || (index == oldIndex && index == 0)) {
+        initRead = true;
+      }
+
       currentBase = queryRes[index]['base'];
       currentTrans = queryRes[index]['trans'];
       currentId = queryRes[index]['_id'];
       currentRec = queryRes[index];
+
+      if(initRead) {
+        Future.delayed(Duration(milliseconds: 140)).then((_) async {
+          readBase();
+        });
+      }
     } else {
       endOfLesson = true;
     }
@@ -112,6 +207,48 @@ class _PracticePageState extends State<PracticePage> {
             onPressed: () {
               moveToLastScreen();
             }),
+        actions: titleColor != null ? [
+          titleColor == 'GREEN' ? Container(
+            height: 30,
+            width: 50,
+            color: Colors.greenAccent,
+            child: Icon(
+              Icons.done,
+              color: Colors.white,
+              size: 22,
+            ),
+          ) : titleColor == 'YELLOW' ?
+          Container(
+            height: 30,
+            width: 50,
+            color: Colors.yellow,
+            child: Icon(
+              Icons.info_outline,
+              color: Colors.white,
+              size: 22,
+            ),
+          ) : titleColor == 'RED' ?
+          Container(
+            height: 30,
+            width: 50,
+            color: Colors.redAccent,
+            child: Icon(
+              Icons.clear,
+              color: Colors.white,
+              size: 22,
+            ),
+          ) : titleColor == 'GREY' ?
+          Container(
+            height: 30,
+            width: 50,
+            color: Colors.grey[400],
+            child: Icon(
+              Icons.update,
+              color: Colors.white,
+              size: 22,
+            ),
+          ) : null
+        ] : null,
       ),
       floatingActionButton: isLoadingDb || endOfLesson
           ? null
@@ -120,7 +257,7 @@ class _PracticePageState extends State<PracticePage> {
                 setState(() {
                   showAnswer = true;
                 });
-                flutterTts.speak(currentTrans);
+                readTrans();
               },
               child: Icon(Icons.settings_voice),
             ),
@@ -233,23 +370,37 @@ class _PracticePageState extends State<PracticePage> {
                 )
               : ListView(
                   children: [
-                    Container(
-                      margin: EdgeInsets.only(left: 25, right: 25, top: 20, bottom: 15),
-                      padding: EdgeInsets.all(10),
-                      height: 200,
-                      decoration: BoxDecoration(
-                        color: Colors.white,
-                        border: Border.all(color: Colors.blueAccent.withOpacity(0.3), width: 4),
-                        borderRadius: BorderRadius.all(Radius.circular(5)),
-                      ),
-                      child: Center(
-                          child: AutoSizeText(
-                        currentBase,
-                        textAlign: TextAlign.center,
-                        style: TextStyle(fontSize: 32, color: Colors.blueAccent),
-                        minFontSize: 15,
-                        maxLines: maxTextRow,
-                      )),
+                    Stack(
+                      children: [
+                        Container(
+                          margin: EdgeInsets.only(left: 25, right: 25, top: 20, bottom: 15),
+                          padding: EdgeInsets.all(10),
+                          height: 200,
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            border: Border.all(color: Colors.blueAccent.withOpacity(0.3), width: 4),
+                            borderRadius: BorderRadius.all(Radius.circular(5)),
+                          ),
+                          child: Center(
+                              child: AutoSizeText(
+                                currentBase,
+                                textAlign: TextAlign.center,
+                                style: TextStyle(fontSize: 32, color: Colors.blueAccent),
+                                minFontSize: 15,
+                                maxLines: maxTextRow,
+                              )),
+                        ),
+                        Positioned(
+                          left: 40,
+                          top: 35,
+                          child: GestureDetector(
+                            onTap: () {
+                              readBase();
+                            },
+                            child: Icon(Icons.volume_up, color: Colors.blueAccent),
+                          )
+                        )
+                      ],
                     ),
                     Container(
                       margin: EdgeInsets.only(left: 25, right: 25, bottom: 15),
@@ -457,6 +608,46 @@ class _PracticePageState extends State<PracticePage> {
       case PracticeType.CONVERSATIONS:
         queryRes = await dbHelper.getVocabularyByType(CacheParams.conversationsType);
         break;
+
+      case PracticeType.WORDS_GREEN:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.wordsType, 1);
+        break;
+      case PracticeType.PHRASES_GREEN:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.phrasesType, 1);
+        break;
+      case PracticeType.CONVERSATIONS_GREEN:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.conversationsType, 1);
+        break;
+
+      case PracticeType.WORDS_YELLOW:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.wordsType, 2);
+        break;
+      case PracticeType.PHRASES_YELLOW:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.phrasesType, 2);
+        break;
+      case PracticeType.CONVERSATIONS_YELLOW:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.conversationsType, 2);
+        break;
+
+      case PracticeType.WORDS_RED:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.wordsType, 3);
+        break;
+      case PracticeType.PHRASES_RED:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.phrasesType, 3);
+        break;
+      case PracticeType.CONVERSATIONS_RED:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.conversationsType, 3);
+        break;
+
+      case PracticeType.WORDS_GREY:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.wordsType, null);
+        break;
+      case PracticeType.PHRASES_GREY:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.phrasesType, null);
+        break;
+      case PracticeType.CONVERSATIONS_GREY:
+        queryRes = await dbHelper.getVocabularyByTypeAndScore(CacheParams.conversationsType, null);
+        break;
     }
     queryRes = queryRes.toList();
     endNumber = queryRes.length;
@@ -498,10 +689,20 @@ class _PracticePageState extends State<PracticePage> {
   }
 
   Future<void> setTTS() async {
-    List<dynamic> languages = await flutterTts.getLanguages;
     await flutterTts.setLanguage("ro-RO");
     await flutterTts.setSpeechRate(1.0);
     await flutterTts.setVolume(1.0);
     await flutterTts.setPitch(1.0);
+  }
+
+  void readBase() async {
+    await flutterTts.setLanguage("en-US");
+    flutterTts.speak(currentBase);
+    initRead = false;
+  }
+
+  void readTrans() async {
+    await flutterTts.setLanguage("ro-RO");
+    flutterTts.speak(currentTrans);
   }
 }
