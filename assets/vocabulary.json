@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "words": {
     "1": {
       "trans": "Salut",
@@ -437,7 +437,7 @@
       "trans": "Pui",
       "base": "Chicken"
     },
-    "100": {
+    "110": {
       "trans": "Rata",
       "base": "Duck"
     },
@@ -530,7 +530,7 @@
       "base": "Salt"
     },
     "133": {
-      "trans": "Pepper",
+      "trans": "Piper",
       "base": "Pepper"
     },
     "134": {
@@ -557,7 +557,7 @@
       "trans": "Întreba",
       "base": "Ask"
     },
-    "130": {
+    "140": {
       "trans": "Amabil",
       "base": "Kind"
     },
@@ -662,8 +662,160 @@
       "base": "They (masculine)"
     },
     "166": {
-      "trans": "Ele (feminine)",
-      "base": ""
+      "trans": "Ele",
+      "base": "They (feminine)"
+    },
+    "167": {
+      "trans": "Fârşitul",
+      "base": "The end"
+    },
+    "168": {
+      "trans": "Acestei",
+      "base": "This"
+    },
+    "169": {
+      "trans": "Săptămână",
+      "base": "Week"
+    },
+    "170": {
+      "trans": "Oriunde",
+      "base": "Anywhere"
+    },
+    "171": {
+      "trans": "Mare",
+      "base": "Sea"
+    },
+    "172": {
+      "trans": "Munte",
+      "base": "Mountain"
+    },
+    "173": {
+      "trans": "Lucru",
+      "base": "Thing"
+    },
+    "174": {
+      "trans": "Din păcate",
+      "base": "Unfortunately"
+    },
+    "175": {
+      "trans": "A rezolva",
+      "base": "To solve"
+    },
+    "176": {
+      "trans": "Concediu",
+      "base": "Holiday"
+    },
+    "177": {
+      "trans": "Viitor",
+      "base": "Next"
+    },
+    "178": {
+      "trans": "Asternuturi",
+      "base": "Bedsheets"
+    },
+    "179": {
+      "trans": "Baie",
+      "base": "Bathroom"
+    },
+    "180": {
+      "trans": "Telefon",
+      "base": "Telephone "
+    },
+    "181": {
+      "trans": "Curat",
+      "base": "Clean"
+    },
+    "182": {
+      "trans": "Cuiere",
+      "base": "Lockers"
+    },
+    "183": {
+      "trans": "Harnic",
+      "base": "Hardworking"
+    },
+    "184": {
+      "trans": "Punctual",
+      "base": "Punctual"
+    },
+    "185": {
+      "trans": "Inteligent",
+      "base": "Intelligent"
+    },
+    "186": {
+      "trans": "Interested",
+      "base": "Interesat"
+    },
+    "187": {
+      "trans": "Interesant",
+      "base": "Interesting"
+    },
+    "188": {
+      "trans": "Liber",
+      "base": "Free"
+    },
+    "189": {
+      "trans": "Tânăr",
+      "base": "Young"
+    },
+    "190": {
+      "trans": "Alb",
+      "base": "White"
+    },
+    "191": {
+      "trans": "Negru",
+      "base": "Black"
+    },
+    "192": {
+      "trans": "Albastru",
+      "base": "Blue"
+    },
+    "193": {
+      "trans": "Verde",
+      "base": "Verde"
+    },
+    "194": {
+      "trans": "Galben",
+      "base": "Yellow"
+    },
+    "195": {
+      "trans": "Roz",
+      "base": "Pink"
+    },
+    "196": {
+      "trans": "Roșu (masculine)",
+      "base": "Red (masculine)"
+    },
+    "197": {
+      "trans": "Roșie (feminine)",
+      "base": "Red (feminine)"
+    },
+    "198": {
+      "trans": "Maro",
+      "base": "Brown"
+    },
+    "199": {
+      "trans": "Gri",
+      "base": "Gray"
+    },
+    "200": {
+      "trans": "Portocaliu (masculine)",
+      "base": "Orange (feminine)"
+    },
+    "201": {
+      "trans": "Portocalie (masculine)",
+      "base": "Orange (feminine)"
+    },
+    "202": {
+      "trans": "Violet",
+      "base": "Violet"
+    },
+    "203": {
+      "trans": "Larg",
+      "base": "Large"
+    },
+    "204": {
+      "trans": "Mauve",
+      "base": "Mov"
     }
   },
   "phrases": {
@@ -983,53 +1135,13 @@
       "trans": "Sunt gata",
       "base": "I'm ready"
     },
-    "100070": {
-      "trans": "A fost delicios",
-      "base": "It was delicious"
-    },
-    "100071": {
-      "trans": "Puteti să strangeti farfuriile?",
-      "base": "Please clear the plates"
-    },
-    "100072": {
-      "trans": "Eu am un student albanez (masculin)",
-      "base": "I have an Albanian student (masculin)"
-    },
-    "100073": {
-      "trans": "Eu am o studentă albaneză (feminin)",
-      "base": "I have an Albanian student (feminin)"
-    },
-    "100074": {
-      "trans": "Doi studenţi (masculin)",
-      "base": "Two students (masculin)"
-    },
-    "100075": {
-      "trans": "Două studente (masculin)",
-      "base": "Two students (feminin)"
-    },
-    "100076": {
-      "trans": "Trei studenţi (masculin)",
-      "base": "Three students (masculin)"
-    },
-    "100077": {
-      "trans": "Trei studente (feminin)",
-      "base": "Three students (feminin)"
-    },
-    "100078": {
-      "trans": "Îmi cer scuze",
-      "base": "Excuse me"
-    },
-    "100079": {
-      "trans": "Aveti asta în masura mea? ",
-      "base": "Do you have this in my size?"
-    },
     "100080": {
       "trans": "Cât costa asta?",
       "base": "How much is this?"
     },
     "100081": {
-      "trans": "Este prea scump.",
-      "base": "That's too expensive."
+      "trans": "Este prea scump",
+      "base": "That's too expensive"
     },
     "100082": {
       "trans": "Ai accepta această haină",
@@ -1098,12 +1210,364 @@
     "100098": {
       "trans": "Ele au",
       "base": "They have (feminine)"
+    },
+    "100099": {
+      "trans": "Alegeți varianta corectă",
+      "base": "Choose the correct option"
+    },
+    "100100": {
+      "trans": "Mihai o invită pe Oana la munte în sfârșit de săptămână",
+      "base": "Mihai invites Oana to the mountains during the weekend"
+    },
+    "100101": {
+      "trans": "Oana nu are concediu săptămâna viitoare",
+      "base": "Oana doesn't have vacation next week"
+    },
+    "100102": {
+      "trans": "Mihai nu are timp să o invite pe Oana la munte",
+      "base": "Mihai doesn't have time to invite Oana to the mountains"
+    },
+    "100103": {
+      "trans": "Aveti camere libere?",
+      "base": "Do you have any rooms available?"
+    },
+    "100104": {
+      "trans": "Cât costa o camera pentru pentru doua persoane?",
+      "base": "How much is a room for two people?"
+    },
+    "100105": {
+      "trans": "Camera vine cu",
+      "base": "Does the room come with"
+    },
+    "100106": {
+      "trans": "Înca o patura?",
+      "base": "`Another blanket?"
+    },
+    "100107": {
+      "trans": "Pot sa vad camera întâi? ",
+      "base": "May I see the room first?"
+    },
+    "100108": {
+      "trans": "Aveti ceva mai linistit? ",
+      "base": "Do you have anything quieter?"
+    },
+    "100109": {
+      "trans": "Bine. Vreau camera. ",
+      "base": "OK, I'll take the room"
+    },
+    "100110": {
+      "trans": "Eu ramân pentru o noapte. ",
+      "base": "I will stay for one night"
+    },
+    "100111": {
+      "trans": "Puteti recomanda alt hotel? ",
+      "base": "Can you suggest another hotel?"
+    },
+    "100112": {
+      "trans": "Aveti seif? ",
+      "base": "Do you have a safe?"
+    },
+    "100113": {
+      "trans": "Pretul include cina?",
+      "base": "Is supper included?"
+    },
+    "100114": {
+      "trans": "La ce ora este micul dejun?",
+      "base": "What time is breakfast?"
+    },
+    "100115": {
+      "trans": "Curatati camera mea, va rog",
+      "base": "Please clean my room"
+    },
+    "100116": {
+      "trans": "Puteti sa ma treziti la?",
+      "base": "Can you wake me at?"
+    },
+    "100117": {
+      "trans": "As vrea sa achit nota si sa plec de la hotel",
+      "base": "I want to check out"
+    },
+    "100118": {
+      "trans": "Zăpada este albă",
+      "base": "Snow is white"
+    },
+    "100119": {
+      "trans": "Soarele este galben",
+      "base": "The sun is yellow"
+    },
+    "100220": {
+      "trans": "Portocala este portocalie",
+      "base": "The orange is orange"
+    },
+    "100221": {
+      "trans": "Cireaşa este roşie",
+      "base": "The cherry is red"
+    },
+    "100222": {
+      "trans": "Cerul este albastru",
+      "base": "The sky is blue"
+    },
+    "100223": {
+      "trans": "Iarba este verde",
+      "base": "The grass is green"
+    },
+    "100224": {
+      "trans": "ământul este maro",
+      "base": "The earth is brown"
+    },
+    "100225": {
+      "trans": "Norul este gri",
+      "base": "The cloud is grey"
+    },
+    "100226": {
+      "trans": "Cauciucurile sunt negre",
+      "base": "The tires are black"
+    },
+    "100227": {
+      "trans": "Ce culoare are zăpada? Albă",
+      "base": "What color is the snow? White"
+    },
+    "100228": {
+      "trans": "Ce culoare are soarele? Galbenă",
+      "base": "What color is the sun? Yellow"
+    },
+    "100229": {
+      "trans": "Frumos (Adjectivul unu masculin)",
+      "base": "Pretty (Adjective single masculine)"
+    },
+    "100230": {
+      "trans": "Frumoasă (Adjectivul unu feminin)",
+      "base": "Pretty (adjective single feminine)"
+    },
+    "100231": {
+      "trans": "Frumoşi (Adjectivul plural masculin)",
+      "base": "Pretty (Adjective plural masculine)"
+    },
+    "100232": {
+      "trans": "Frumoase (Adjectivul plural feminin)",
+      "base": "Pretty (Adjective plural masculine)"
+    },
+    "100233": {
+      "trans": "O femeie bătrână",
+      "base": "an old lady"
+    },
+    "100234": {
+      "trans": "O femeie grasă",
+      "base": "A fat lady"
+    },
+    "100235": {
+      "trans": "O femeie curioasă",
+      "base": "A curious lady"
+    },
+    "100236": {
+      "trans": "O maşină nouă",
+      "base": "A new car"
+    },
+    "100237": {
+      "trans": "O maşină rapidă",
+      "base": "A fast car"
+    },
+    "100238": {
+      "trans": "O maşină comodă",
+      "base": "A comfortable car"
+    },
+    "100239": {
+      "trans": "O rochie albastră",
+      "base": "A blue dress"
+    },
+    "100240": {
+      "trans": "A fost delicios",
+      "base": "It was delicious"
+    },
+    "100241": {
+      "trans": "Puteti să strangeti farfuriile?",
+      "base": "Please clear the plates"
+    },
+    "100242": {
+      "trans": "Eu am un student albanez (masculin)",
+      "base": "I have an Albanian student (masculin)"
+    },
+    "100243": {
+      "trans": "Eu am o studentă albaneză (feminin)",
+      "base": "I have an Albanian student (feminin)"
+    },
+    "100244": {
+      "trans": "Doi studenţi (masculin)",
+      "base": "Two students (masculin)"
+    },
+    "100245": {
+      "trans": "Două studente (masculin)",
+      "base": "Two students (feminin)"
+    },
+    "100246": {
+      "trans": "Trei studenţi (masculin)",
+      "base": "Three students (masculin)"
+    },
+    "100247": {
+      "trans": "Trei studente (feminin)",
+      "base": "Three students (feminin)"
+    },
+    "100248": {
+      "trans": "Îmi cer scuze",
+      "base": "Excuse me"
+    },
+    "100249": {
+      "trans": "Aveti asta în masura mea? ",
+      "base": "Do you have this in my size?"
+    },
+    "100250": {
+      "trans": "O rochie roşie",
+      "base": "A red dress"
+    },
+    "100251": {
+      "trans": "O poşetă neagră",
+      "base": "A black bag"
+    },
+    "100252": {
+      "trans": "Oameni drăguţi",
+      "base": "Nice people"
+    },
+    "100253": {
+      "trans": "Oameni politicoşi",
+      "base": "Polite people"
+    },
+    "100254": {
+      "trans": "Oameni interesanţi",
+      "base": "Interesting people"
+    },
+    "100255": {
+      "trans": "Copii drăguţi",
+      "base": "Loving children"
+    },
+    "100256": {
+      "trans": "Copii obraznici",
+      "base": "Cheeky children"
+    },
+    "100257": {
+      "trans": "Copii cuminţi",
+      "base": "Well behaved children"
+    },
+    "100258": {
+      "trans": "Eu port o rochie albastră",
+      "base": "I am wearing a blue dress"
+    },
+    "100259": {
+      "trans": "Eu port o rochie roşie",
+      "base": "I am wearing a red dress"
+    },
+    "100260": {
+      "trans": "Cumpăr o poşetă neagră",
+      "base": "I’m buying a black bag"
+    },
+    "100261": {
+      "trans": "Cumpăr o poşetă maro",
+      "base": "I’m buying a brown bag"
+    },
+    "100262": {
+      "trans": "Îmi trebuie o maşină nouă",
+      "base": "I need a new car"
+    },
+    "100263": {
+      "trans": "Acolo sus locuieşte o femeie bătrână",
+      "base": "An old lady lives at the top"
+    },
+    "100264": {
+      "trans": "Musafirii noştri au fost persoane drăguţe",
+      "base": "Our guests were nice people"
+    },
+    "100265": {
+      "trans": "Musafirii noştri au fost persoane interesante",
+      "base": "Our guests were interesting people"
+    },
+    "100266": {
+      "trans": "Musafirii noştri au fost persoane politicoase",
+      "base": "Our guests were polite people"
+    },
+    "100267": {
+      "trans": "Eu am copii cuminţi",
+      "base": "I have lovely children"
+    },
+    "100268": {
+      "trans": "Dar vecinii au copii obraznici",
+      "base": "But the neighbours have naughty children"
+    },
+    "100269": {
+      "trans": "Ea are un câine",
+      "base": "She has a dog"
+    },
+    "100270": {
+      "trans": "Câinele este mare",
+      "base": "The dog is big"
+    },
+    "100271": {
+      "trans": "Ea are un câine mare",
+      "base": "She has a big dog"
+    },
+    "100272": {
+      "trans": "Ea are o casă",
+      "base": "She has a house"
+    },
+    "100273": {
+      "trans": "Casa este mică",
+      "base": "The house is small"
+    },
+    "100274": {
+      "trans": "Ea are o casă mică",
+      "base": "She has a small house"
+    },
+    "100275": {
+      "trans": "El locuieşte într-un hotel",
+      "base": "He is staying in a hotel"
+    },
+    "100276": {
+      "trans": "Hotelul este ieftin",
+      "base": "The hotel is cheap"
+    },
+    "100277": {
+      "trans": "El locuieşte într-un hotel ieftin",
+      "base": "He is staying in a cheap hotel"
+    },
+    "100278": {
+      "trans": "El are o maşină",
+      "base": "He has a car"
+    },
+    "100279": {
+      "trans": "Maşina este scumpă",
+      "base": "The car is expensive"
+    },
+    "100280": {
+      "trans": "El are o maşină scumpă",
+      "base": "He has an expensive car"
+    },
+    "100281": {
+      "trans": "El citeşte un roman",
+      "base": "He reads a novel"
+    },
+    "100282": {
+      "trans": "Romanul este plictisitor",
+      "base": "The novel is boring"
+    },
+    "100283": {
+      "trans": "El citeşte un roman plictisitor",
+      "base": "He is reading a boring novel"
+    },
+    "100284": {
+      "trans": "Ea vede un film",
+      "base": "She is watching a movie"
+    },
+    "100285": {
+      "trans": "Filmul este captivant",
+      "base": "The movie is exciting"
+    },
+    "100286": {
+      "trans": "Ea vede un film captivant",
+      "base": "She is watching an exciting movie"
     }
   },
   "conversations": {
     "1000001": {
       "trans": "stii cateva",
-      "base": "you know some",
+      "base": "you know someing",
       "group_id": "a"
     },
     "1000002": {
@@ -1210,6 +1674,46 @@
       "trans": "O zi bună și dumneavoastră",
       "base": "Have a nice day you too",
       "group_id": "d"
+    },
+    "1000024": {
+      "trans": "Ce planuri de vacanță ai?",
+      "base": "What vacation plans do you have?",
+      "group_id": "e"
+    },
+    "1000025": {
+      "trans": "Nu știu",
+      "base": "I don't know",
+      "group_id": "e"
+    },
+    "1000026": {
+      "trans": "Dar unde vrei să merge?",
+      "base": "But where do you want to go?",
+      "group_id": "e"
+    },
+    "1000027": {
+      "trans": "Eu vreau să merg oriunde, la mare, la munte",
+      "base": "I want to go anywhere, to the sea, to the mountains",
+      "group_id": "e"
+    },
+    "1000028": {
+      "trans": "Vino la munte cu mine la sfârşitul acestei săptămâni",
+      "base": "Come with me to the mountains at the end of this week",
+      "group_id": "e"
+    },
+    "1000029": {
+      "trans": "Din păcate nu pot, am multe lucruri de rezolvat, dar am vacanţă săptămâna viitoare",
+      "base": "Unfortunately I cannot, I have a lot of things to do, but I have vacation next week",
+      "group_id": "e"
+    },
+    "1000030": {
+      "trans": "Bine, vorbim atunci săptămâna viitoare",
+      "base": "Fine, we talk next week then",
+      "group_id": "e"
+    },
+    "1000031": {
+      "trans": "Pe curând, pa",
+      "base": "See you soon, bye",
+      "group_id": "e"
     }
   }
 }
