@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "words": {
     "1": {
       "trans": "Salut",
@@ -799,10 +799,10 @@
     },
     "200": {
       "trans": "Portocaliu (masculine)",
-      "base": "Orange (feminine)"
+      "base": "Orange (masculine)"
     },
     "201": {
-      "trans": "Portocalie (masculine)",
+      "trans": "Portocalie (feminine)",
       "base": "Orange (feminine)"
     },
     "202": {
@@ -1001,7 +1001,7 @@
     },
     "100046": {
       "trans": "Cât curând",
-      "base": "ASPA"
+      "base": "ASAP"
     },
     "100047": {
       "trans": "Pe curând",
@@ -1193,7 +1193,7 @@
     },
     "100094": {
       "trans": "Voi aveți",
-      "base": "You have"
+      "base": "You have (many)"
     },
     "100095": {
       "trans": "El are",
@@ -1232,7 +1232,7 @@
       "base": "Do you have any rooms available?"
     },
     "100104": {
-      "trans": "Cât costa o camera pentru pentru doua persoane?",
+      "trans": "Cât costa o camera pentru doua persoane?",
       "base": "How much is a room for two people?"
     },
     "100105": {
@@ -1241,7 +1241,7 @@
     },
     "100106": {
       "trans": "Înca o patura?",
-      "base": "`Another blanket?"
+      "base": "Another blanket?"
     },
     "100107": {
       "trans": "Pot sa vad camera întâi? ",
@@ -1345,7 +1345,7 @@
     },
     "100232": {
       "trans": "Frumoase (Adjectivul plural feminin)",
-      "base": "Pretty (Adjective plural masculine)"
+      "base": "Pretty (Adjective plural feminine)"
     },
     "100233": {
       "trans": "O femeie bătrână",
@@ -1396,7 +1396,7 @@
       "base": "Two students (masculin)"
     },
     "100245": {
-      "trans": "Două studente (masculin)",
+      "trans": "Două studente (feminin)",
       "base": "Two students (feminin)"
     },
     "100246": {
