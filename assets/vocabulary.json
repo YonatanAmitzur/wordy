@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.6",
   "words": {
     "1": {
       "trans": "Salut",
@@ -742,8 +742,8 @@
       "base": "Intelligent"
     },
     "186": {
-      "trans": "Interested",
-      "base": "Interesat"
+      "trans": "Interesat",
+      "base": "Interested"
     },
     "187": {
       "trans": "Interesant",
@@ -816,6 +816,306 @@
     "204": {
       "trans": "Mauve",
       "base": "Mov"
+    },
+    "205": {
+      "trans": "Primăvara",
+      "base": "Spring"
+    },
+    "206": {
+      "trans": "Vara",
+      "base": "Summer"
+    },
+    "207": {
+      "trans": "Toamna",
+      "base": "Autumn"
+    },
+    "208": {
+      "trans": "Iarna",
+      "base": "Winter"
+    },
+    "209": {
+      "trans": "Ianuarie",
+      "base": "January"
+    },
+    "210": {
+      "trans": "Februarie",
+      "base": "February"
+    },
+    "211": {
+      "trans": "Martie",
+      "base": "March"
+    },
+    "212": {
+      "trans": "Aprilie",
+      "base": "April"
+    },
+    "213": {
+      "trans": "Mai",
+      "base": "May"
+    },
+    "214": {
+      "trans": "Iunie",
+      "base": "June"
+    },
+    "215": {
+      "trans": "Iulie",
+      "base": "July"
+    },
+    "216": {
+      "trans": "August",
+      "base": "August"
+    },
+    "217": {
+      "trans": "Septembrie",
+      "base": "September"
+    },
+    "218": {
+      "trans": "Octombrie",
+      "base": "October"
+    },
+    "219": {
+      "trans": "Noiembrie",
+      "base": "November"
+    },
+    "220": {
+      "trans": "Decembrie",
+      "base": "December"
+    },
+    "221": {
+      "trans": "Luni (zi)",
+      "base": "Monday"
+    },
+    "222": {
+      "trans": "Lună",
+      "base": "Month"
+    },
+    "223": {
+      "trans": "Luni (mulți)",
+      "base": "Months"
+    },
+    "224": {
+      "trans": "Marți",
+      "base": "Tuesday"
+    },
+    "225": {
+      "trans": "Miercuri",
+      "base": "Wednesday"
+    },
+    "226": {
+      "trans": "Joi",
+      "base": "Thursday"
+    },
+    "227": {
+      "trans": "Vineri",
+      "base": "Friday"
+    },
+    "228": {
+      "trans": "Sâmbătă",
+      "base": "Saturday"
+    },
+    "229": {
+      "trans": "Duminică",
+      "base": "Sunday"
+    },
+    "230": {
+      "trans": "Prânz",
+      "base": "Lunch"
+    },
+    "231": {
+      "trans": "Amiază",
+      "base": "Noon"
+    },
+    "232": {
+      "trans": "După-amiaza",
+      "base": "Afternoon"
+    },
+    "233": {
+      "trans": "Miezul nopţii",
+      "base": "Midnight"
+    },
+    "234": {
+      "trans": "Vânzătoare",
+      "base": "Seller"
+    },
+    "235": {
+      "trans": "Dicționar",
+      "base": "Dictionary"
+    },
+    "236": {
+      "trans": "Numai",
+      "base": "Only"
+    },
+    "237": {
+      "trans": "Carte",
+      "base": "Book"
+    },
+    "238": {
+      "trans": "Gramatică",
+      "base": "Grammar"
+    },
+    "239": {
+      "trans": "A reveni",
+      "base": "To come back"
+    },
+    "240": {
+      "trans": "A primi",
+      "base": "To receive"
+    },
+    "241": {
+      "trans": "Acum",
+      "base": "Now"
+    },
+    "242": {
+      "trans": "Aici",
+      "base": "Here"
+    },
+    "243": {
+      "trans": "Alaltăieri",
+      "base": "Day before yesterday"
+    },
+    "244": {
+      "trans": "Ieri",
+      "base": "Yesterday"
+    },
+    "245": {
+      "trans": "Acolo",
+      "base": "There"
+    },
+    "246": {
+      "trans": "Astăzi",
+      "base": "Today"
+    },
+    "247": {
+      "trans": "Mâine",
+      "base": "Tomorrow"
+    },
+    "248": {
+      "trans": "Poimâine",
+      "base": "Day after tomorrow"
+    },
+    "249": {
+      "trans": "Mereu",
+      "base": "Always"
+    },
+    "250": {
+      "trans": "Niciodată",
+      "base": "Never"
+    },
+    "251": {
+      "trans": "Uneori",
+      "base": "Sometimes"
+    },
+    "252": {
+      "trans": "Cap",
+      "base": "Head"
+    },
+    "253": {
+      "trans": "Braţ",
+      "base": "Arm"
+    },
+    "254": {
+      "trans": "Talie",
+      "base": "Waist"
+    },
+    "255": {
+      "trans": "Picior",
+      "base": "Leg"
+    },
+    "256": {
+      "trans": "Cufăr",
+      "base": "Chest"
+    },
+    "257": {
+      "trans": "Stomac",
+      "base": "Stomach"
+    },
+    "258": {
+      "trans": "Șolduri",
+      "base": "Hips"
+    },
+    "259": {
+      "trans": "Mână",
+      "base": "Hand"
+    },
+    "260": {
+      "trans": "Picior",
+      "base": "Foot"
+    },
+    "261": {
+      "trans": "Ochi",
+      "base": "Eye"
+    },
+    "262": {
+      "trans": "Sprânceană",
+      "base": "Eyebrow"
+    },
+    "263": {
+      "trans": "Nas",
+      "base": "Nose"
+    },
+    "264": {
+      "trans": "Gură",
+      "base": "Mouth"
+    },
+    "265": {
+      "trans": "Barbă",
+      "base": "Chin"
+    },
+    "266": {
+      "trans": "Păr",
+      "base": "Hair"
+    },
+    "267": {
+      "trans": "Ureche",
+      "base": "Ear"
+    },
+    "268": {
+      "trans": "Buze",
+      "base": "Lips"
+    },
+    "269": {
+      "trans": "Gât",
+      "base": "Neck"
+    },
+    "270": {
+      "trans": "Umăr",
+      "base": "Shoulder"
+    },
+    "271": {
+      "trans": "Antebraț",
+      "base": "Forearm"
+    },
+    "272": {
+      "trans": "Cot",
+      "base": "Elbow"
+    },
+    "273": {
+      "trans": "Gleznă",
+      "base": "Ankle"
+    },
+    "274": {
+      "trans": "Toc",
+      "base": "Heel"
+    },
+    "275": {
+      "trans": "Deget",
+      "base": "Finger"
+    },
+    "276": {
+      "trans": "Geană",
+      "base": "Eyelash"
+    },
+    "277": {
+      "trans": "Obraz",
+      "base": "Cheek"
+    },
+    "278": {
+      "trans": "Pupilă",
+      "base": "Pupil"
+    },
+    "279": {
+      "trans": "Limbă",
+      "base": "Tongue"
     }
   },
   "phrases": {
@@ -1189,7 +1489,7 @@
     },
     "100093": {
       "trans": "Tu ai",
-      "base": "Tou have"
+      "base": "You have"
     },
     "100094": {
       "trans": "Voi aveți",
@@ -1562,6 +1862,242 @@
     "100286": {
       "trans": "Ea vede un film captivant",
       "base": "She is watching an exciting movie"
+    },
+    "100287": {
+      "trans": "Eu vorbesc limba română",
+      "base": "I speak Romanian language"
+    },
+    "100288": {
+      "trans": "Noi vorbim foarte bine engleză",
+      "base": "We speak English very well"
+    },
+    "100289": {
+      "trans": "Eu locuiesc în București",
+      "base": "I live in Bucharest"
+    },
+    "100290": {
+      "trans": "Tu locuiești într-un oraș mare",
+      "base": "You live in a big cit"
+    },
+    "100291": {
+      "trans": "Eu iau autobuzul",
+      "base": "I take the bus"
+    },
+    "100292": {
+      "trans": "Eu iau micul dejun la ora 9",
+      "base": "I have breakfast at 9.00 o'clock"
+    },
+    "100293": {
+      "trans": "Care este anotimpul dumneavoastră preferat?",
+      "base": "What is your favorite season?"
+    },
+    "100294": {
+      "trans": "Care este luna dumneavoastră preferată?",
+      "base": "What is your favorite month?"
+    },
+    "100295": {
+      "trans": "Care este ziua dumneavoastră preferată din săptămână?",
+      "base": "What is your favorite day of the week?"
+    },
+    "100296": {
+      "trans": "Ce zi este astăzi?",
+      "base": "What day is today?"
+    },
+    "100297": {
+      "trans": "Ce zi este mâine?",
+      "base": "What day is tomorrow?"
+    },
+    "100298": {
+      "trans": "Ce zi urmează după marţi?",
+      "base": "What day after Tuesday?"
+    },
+    "100299": {
+      "trans": "Astăzi este 15 mai, Când a fost 14 mai?",
+      "base": "Today is May 15th, When was May 14?"
+    },
+    "100300": {
+      "trans": "Astăzi este vineri, Ce zi este mâine?",
+      "base": "Today is Friday, What day is tomorrow?"
+    },
+    "100301": {
+      "trans": "Poimâine este joi, Ce zi este azi?",
+      "base": "The day after tomorrow is Thursday, what day is today?"
+    },
+    "100302": {
+      "trans": "Iernile sunt geroase, cu temperaturi de minus 30 de grade Celsius",
+      "base": "Winters are frosty, with temperatures of minus 30 degrees Celsius"
+    },
+    "100303": {
+      "trans": "Verile sunt călduroase, uneori cu temperaturi de patruzeci de grade în luna iulie",
+      "base": "Summers are hot, sometimes with temperatures of forty degrees in July"
+    },
+    "100304": {
+      "trans": "Primăvara şi toamna plouă des, dar temperaturile sunt moderate",
+      "base": "Spring and autumn rain often, but temperatures are moderate"
+    },
+    "100305": {
+      "trans": "Ce tip de climă are România?",
+      "base": "What kind of climate does Romania have?"
+    },
+    "100306": {
+      "trans": "Câte anotimpuri există în România?",
+      "base": "How many seasons are there in Romania?"
+    },
+    "100307": {
+      "trans": "Cât este ceasul?",
+      "base": "What time is it?"
+    },
+    "100308": {
+      "trans": "Acum este ora șapte și un sfert",
+      "base": "The time now is a quarter past seven"
+    },
+    "100309": {
+      "trans": "Acum este ora două şi jumătate",
+      "base": "It's half past two now"
+    },
+    "100310": {
+      "trans": "Acum este ora unsprezece fără un sfert",
+      "base": "It's a quarter to eleven"
+    },
+    "100311": {
+      "trans": "Acum este ora trei şi cinci minute",
+      "base": "It's three minutes past five"
+    },
+    "100312": {
+      "trans": "Acum este ora cinci fără zece minute",
+      "base": "It's ten minutes to five"
+    },
+    "100313": {
+      "trans": "Acum este ora nouă şi douăzeci şi cinci de minute",
+      "base": "It is now twenty-five minutes past nine"
+    },
+    "100314": {
+      "trans": "Acum este ora unu fără trei minute",
+      "base": "It's three minutes to one"
+    },
+    "100315": {
+      "trans": "Este ora şase fără un sfert?",
+      "base": "Is it a quarter past six?"
+    },
+    "100316": {
+      "trans": "Este ora patru şi jumătate?",
+      "base": "It is half past four?"
+    },
+    "100317": {
+      "trans": "Mihai Dinu este student la Facultatea de Medicină, în Bucureşti",
+      "base": "Mihai Dinu is a student at the Faculty of Medicine, in Bucharest"
+    },
+    "100318": {
+      "trans": "Mihai are cursuri patru zile pe săptămână: luni, marţi, joi şi vineri",
+      "base": "Mihai has classes four days a week: Monday, Tuesday, Thursday and Friday"
+    },
+    "100319": {
+      "trans": "Cursurile încep la ora opt dimineaţa şi se termină la ora patru după-amiaza",
+      "base": "Classes start at eight in the morning and end at four in the afternoon"
+    },
+    "100320": {
+      "trans": "Mihai se trezeşte dimineaţa la ora şapte fără un sfert, la şapte şi jumătate pleacă spre facultate",
+      "base": "Mihai wakes up in the morning at seven without a quarter, at seven and a half he goes to college"
+    },
+    "100321": {
+      "trans": "Marţi, după cursuri, Mihai joacă fotbal timp de două ore",
+      "base": "On Tuesday, after classes, Mihai plays football for two hours"
+    },
+    "100322": {
+      "trans": "Seara se Mihai culcă în jurul orei unsprezece",
+      "base": "In the evening, Mihai goes to bed around eleven o'clock"
+    },
+    "100323": {
+      "trans": "Fiecare dimineata lucrez",
+      "base": "I work every morning"
+    },
+    "100324": {
+      "trans": "Ma duc la lucru in fiecare dimineata",
+      "base": "I go to work every morning"
+    },
+    "100325": {
+      "trans": "Sapatamana vitoare merg eu merg la plimbare",
+      "base": "I will go for a walk next week"
+    },
+    "100326": {
+      "trans": "Eu merg la plimbare saptamana vitoare",
+      "base": "I'm going for a walk next week"
+    },
+    "100327": {
+      "trans": "Eu ma duc la lucru acum",
+      "base": "I'm going to work now"
+    },
+    "100328": {
+      "trans": "Acum eu ma duc la lucru",
+      "base": "Now I'm going to work"
+    },
+    "100329": {
+      "trans": "Aș vrea un dicționar",
+      "base": "I would like a dictionary"
+    },
+    "100330": {
+      "trans": "Nu avem un dicționar spaniol-român",
+      "base": "We don't have a Spanish-Romanian dictionary"
+    },
+    "100331": {
+      "trans": "Vă rog să vă întoarceți săptămâna viitoare",
+      "base": "Please come back next week"
+    },
+    "100332": {
+      "trans": "Acum am de scris un email",
+      "base": "Now I have to write an email"
+    },
+    "100333": {
+      "trans": "Am de scris un email acum",
+      "base": "I have to write an email now"
+    },
+    "100334": {
+      "trans": "În fiecare zi",
+      "base": "Every day"
+    },
+    "100335": {
+      "trans": "În fiecare dimineață",
+      "base": "Every morning"
+    },
+    "100336": {
+      "trans": "În fiecare seară ",
+      "base": "Every evening"
+    },
+    "100337": {
+      "trans": "Acum 3 zile",
+      "base": "Three days ago"
+    },
+    "100338": {
+      "trans": "Săptămâna aceasta",
+      "base": "This week"
+    },
+    "100339": {
+      "trans": "Anul acesta",
+      "base": "This year"
+    },
+    "100340": {
+      "trans": "Săptămâna trecută",
+      "base": "Last week"
+    },
+    "100341": {
+      "trans": "Anul trecut",
+      "base": "Last year"
+    },
+    "100342": {
+      "trans": "Săptămâna viitoare",
+      "base": "Next week"
+    },
+    "100343": {
+      "trans": "Anul viitor",
+      "base": "Next year"
+    },
+    "100344": {
+      "trans": "Merg la piață în fiecare zi",
+      "base": "I go to the market every day"
+    },
+    "100345": {
+      "trans": "Fiecare zi este frumoasă",
+      "base": "Every day is beautiful"
     }
   },
   "conversations": {
