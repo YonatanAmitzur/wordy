@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1877,7 +1877,7 @@
     },
     "100290": {
       "trans": "Tu locuiești într-un oraș mare",
-      "base": "You live in a big cit"
+      "base": "You live in a big city"
     },
     "100291": {
       "trans": "Eu iau autobuzul",
@@ -1885,7 +1885,7 @@
     },
     "100292": {
       "trans": "Eu iau micul dejun la ora 9",
-      "base": "I have breakfast at 9.00 o'clock"
+      "base": "I have breakfast at 9 o'clock"
     },
     "100293": {
       "trans": "Care este anotimpul dumneavoastră preferat?",
@@ -1961,7 +1961,7 @@
     },
     "100311": {
       "trans": "Acum este ora trei şi cinci minute",
-      "base": "It's three minutes past five"
+      "base": "It's three and five minutes"
     },
     "100312": {
       "trans": "Acum este ora cinci fără zece minute",
@@ -1977,7 +1977,7 @@
     },
     "100315": {
       "trans": "Este ora şase fără un sfert?",
-      "base": "Is it a quarter past six?"
+      "base": "Is it a quarter to six?"
     },
     "100316": {
       "trans": "Este ora patru şi jumătate?",
@@ -2016,7 +2016,7 @@
       "base": "I go to work every morning"
     },
     "100325": {
-      "trans": "Sapatamana vitoare merg eu merg la plimbare",
+      "trans": "Sapatamana vitoare eu merg la plimbare",
       "base": "I will go for a walk next week"
     },
     "100326": {
