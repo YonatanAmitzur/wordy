@@ -22,6 +22,10 @@ class _PracticePageState extends State<PracticePage> {
   FlutterTts flutterTts = FlutterTts();
   FlutterTts flutterTtsBase = FlutterTts();
 
+  String transCode = "ro-RO";
+  String baseCode = "en-US";
+
+
   PracticeType practiceType;
   String title;
   int maxTextRow = 1;
@@ -691,14 +695,14 @@ class _PracticePageState extends State<PracticePage> {
   }
 
   Future<void> setTTS() async {
-    await flutterTts.setLanguage("ro-RO");
+    await flutterTts.setLanguage(transCode);
     await flutterTts.setSpeechRate(1.0);
     await flutterTts.setVolume(1.0);
     await flutterTts.setPitch(1.0);
   }
 
   void readBase() async {
-    await flutterTts.setLanguage("en-US");
+    await flutterTts.setLanguage(baseCode);
     flutterTts.speak(currentBase);
     initRead = false;
     if(isFirstLoad) {
@@ -707,7 +711,7 @@ class _PracticePageState extends State<PracticePage> {
   }
 
   void readTrans() async {
-    await flutterTts.setLanguage("ro-RO");
+    await flutterTts.setLanguage(transCode);
     flutterTts.speak(currentTrans);
   }
 }
