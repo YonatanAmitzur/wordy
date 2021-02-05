@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1208,7 +1208,7 @@
       "base": "Are you free to talk"
     },
     "100023": {
-      "trans": "Cu te simți azi?",
+      "trans": "Cum te simți azi?",
       "base": "How are you feeling today?"
     },
     "100024": {
@@ -1901,15 +1901,15 @@
     },
     "100296": {
       "trans": "Ce zi este astăzi?",
-      "base": "What day is today?"
+      "base": "What's the day is today?"
     },
     "100297": {
       "trans": "Ce zi este mâine?",
-      "base": "What day is tomorrow?"
+      "base": "What's the day is tomorrow?"
     },
     "100298": {
       "trans": "Ce zi urmează după marţi?",
-      "base": "What day after Tuesday?"
+      "base": "What's the day after Tuesday?"
     },
     "100299": {
       "trans": "Astăzi este 15 mai, Când a fost 14 mai?",
@@ -1917,11 +1917,11 @@
     },
     "100300": {
       "trans": "Astăzi este vineri, Ce zi este mâine?",
-      "base": "Today is Friday, What day is tomorrow?"
+      "base": "Today is Friday, What's the day is tomorrow?"
     },
     "100301": {
       "trans": "Poimâine este joi, Ce zi este azi?",
-      "base": "The day after tomorrow is Thursday, what day is today?"
+      "base": "The day after tomorrow is Thursday, what's the day is today?"
     },
     "100302": {
       "trans": "Iernile sunt geroase, cu temperaturi de minus 30 de grade Celsius",
@@ -2009,7 +2009,7 @@
     },
     "100323": {
       "trans": "Fiecare dimineata lucrez",
-      "base": "I work every morning"
+      "base": "Every morning, i work"
     },
     "100324": {
       "trans": "Ma duc la lucru in fiecare dimineata",
