@@ -1,5 +1,5 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1116,6 +1116,446 @@
     "279": {
       "trans": "Limbă",
       "base": "Tongue"
+    },
+    "280": {
+      "trans": "Achit",
+      "base": "Pay off"
+    },
+    "281": {
+      "trans": "Plec",
+      "base": "Go or Leave"
+    },
+    "282": {
+      "trans": "Încet Încet",
+      "base": "Slowly slowly"
+    },
+    "283": {
+      "trans": "Joacă",
+      "base": "Play"
+    },
+    "284": {
+      "trans": "Alegeţi",
+      "base": "Choose"
+    },
+    "285": {
+      "trans": "Din",
+      "base": "From"
+    },
+    "286": {
+      "trans": "Stai așa",
+      "base": "Wait a moment"
+    },
+    "287": {
+      "trans": "Deja?",
+      "base": "Already?"
+    },
+    "288": {
+      "trans": "Culca",
+      "base": "Sleep"
+    },
+    "289": {
+      "trans": "Jurul",
+      "base": "Around"
+    },
+    "290": {
+      "trans": "Nevoie",
+      "base": "Need"
+    },
+    "291": {
+      "trans": "Pleca spre",
+      "base": "Go to"
+    },
+    "292": {
+      "trans": "Tip",
+      "base": "Type"
+    },
+    "293": {
+      "trans": "Linistit",
+      "base": "Quiet"
+    },
+    "294": {
+      "trans": "Încă o",
+      "base": "One more"
+    },
+    "295": {
+      "trans": "Patura",
+      "base": "Blanket"
+    },
+    "296": {
+      "trans": "Pernă",
+      "base": "Pillow"
+    },
+    "297": {
+      "trans": "Fata de perna",
+      "base": "Pillowcase"
+    },
+    "298": {
+      "trans": "Cearșaf de pat",
+      "base": "Bed sheet"
+    },
+    "299": {
+      "trans": "Urmează",
+      "base": "Follows"
+    },
+    "300": {
+      "trans": "Vecinii",
+      "base": "Neighbours"
+    },
+    "301": {
+      "trans": "Intoarceti",
+      "base": "Come back"
+    },
+    "302": {
+      "trans": "Geroase",
+      "base": "Frosty"
+    },
+    "303": {
+      "trans": "Sfârşit de",
+      "base": "At the end of"
+    },
+    "304": {
+      "trans": "Plouă",
+      "base": "Raining"
+    },
+    "305": {
+      "trans": "Des",
+      "base": "Often"
+    },
+    "306": {
+      "trans": "Câte",
+      "base": "How many"
+    },
+    "307": {
+      "trans": "Cu",
+      "base": "With"
+    },
+    "308": {
+      "trans": "Dar",
+      "base": "But"
+    },
+    "309": {
+      "trans": "Tip",
+      "base": "Type"
+    },
+    "310": {
+      "trans": "Fel",
+      "base": "Kind"
+    },
+    "311": {
+      "trans": "Beau",
+      "base": "I drink"
+    },
+    "312": {
+      "trans": "Oraş",
+      "base": "City"
+    },
+    "313": {
+      "trans": "Provincie",
+      "base": "Province"
+    },
+    "314": {
+      "trans": "Cadou",
+      "base": "Gift"
+    },
+    "315": {
+      "trans": "Ultimul",
+      "base": "Last"
+    },
+    "316": {
+      "trans": "Sărut",
+      "base": "Kiss"
+    },
+    "317": {
+      "trans": "Primul",
+      "base": "First"
+    },
+    "318": {
+      "trans": "Aproape",
+      "base": "Almost"
+    },
+    "319": {
+      "trans": "Aproximativ",
+      "base": "Approxsimtly"
+    },
+    "320": {
+      "trans": "Țara",
+      "base": "Country"
+    },
+    "321": {
+      "trans": "Aebroica",
+      "base": "Hebrew"
+    },
+    "322": {
+      "trans": "Vest",
+      "base": "West"
+    },
+    "323": {
+      "trans": "Sud",
+      "base": "South"
+    },
+    "324": {
+      "trans": "Nord",
+      "base": "North"
+    },
+    "325": {
+      "trans": "Est",
+      "base": "East"
+    },
+    "326": {
+      "trans": "Răspundeţi",
+      "base": "Respond"
+    },
+    "327": {
+      "trans": "Faţă de",
+      "base": "Compare to"
+    },
+    "328": {
+      "trans": "Află",
+      "base": "Find"
+    },
+    "329": {
+      "trans": "În",
+      "base": "In"
+    },
+    "330": {
+      "trans": "Lângă",
+      "base": "Near"
+    },
+    "331": {
+      "trans": "Pe",
+      "base": "On"
+    },
+    "332": {
+      "trans": "Sub",
+      "base": "Under"
+    },
+    "333": {
+      "trans": "Vizavi de",
+      "base": "Opposite"
+    },
+    "334": {
+      "trans": "Între",
+      "base": "Between"
+    },
+    "335": {
+      "trans": "În faţa",
+      "base": "In front"
+    },
+    "336": {
+      "trans": "în spate",
+      "base": "Behind"
+    },
+    "337": {
+      "trans": "Beasupra",
+      "base": "Above"
+    },
+    "338": {
+      "trans": "De-a lungul",
+      "base": "Along"
+    },
+    "339": {
+      "trans": "De-a latul",
+      "base": "On the side"
+    },
+    "340": {
+      "trans": "Ieși",
+      "base": "Get out"
+    },
+    "341": {
+      "trans": "Iesire",
+      "base": "Exit"
+    },
+    "342": {
+      "trans": "Intrare",
+      "base": "Entrance"
+    },
+    "343": {
+      "trans": "Plec în",
+      "base": "Go to (countries)"
+    },
+    "344": {
+      "trans": "Plec de la",
+      "base": "To leave"
+    },
+    "345": {
+      "trans": "Plec la",
+      "base": "Go to (intuition and towns)"
+    },
+    "346": {
+      "trans": "Cobor din",
+      "base": "Get up (from a chair)"
+    },
+    "347": {
+      "trans": "Cobor în",
+      "base": "Go to (Downtime city)"
+    },
+    "348": {
+      "trans": "Lume",
+      "base": "World"
+    },
+    "349": {
+      "trans": "Teatru",
+      "base": "Theater"
+    },
+    "350": {
+      "trans": "Cinematograf",
+      "base": "Cinema"
+    },
+    "351": {
+      "trans": "Pe tot",
+      "base": "All of it"
+    },
+    "352": {
+      "trans": "Mă întorc",
+      "base": "I'm coming back"
+    },
+    "353": {
+      "trans": "Până",
+      "base": "Until"
+    },
+    "354": {
+      "trans": "Muncă",
+      "base": "Work"
+    },
+    "355": {
+      "trans": "Echitație",
+      "base": "Horse riding"
+    },
+    "356": {
+      "trans": "M-am intors",
+      "base": "I returned"
+    },
+    "357": {
+      "trans": "Lecție",
+      "base": "Lesson"
+    },
+    "358": {
+      "trans": "Aștept",
+      "base": "I'm waiting"
+    },
+    "359": {
+      "trans": "Ma îmbrac",
+      "base": "I'm getting dressed"
+    },
+    "360": {
+      "trans": "Cuvinte",
+      "base": "Words"
+    },
+    "361": {
+      "trans": "Abia",
+      "base": "Hardly"
+    },
+    "362": {
+      "trans": "Ușor",
+      "base": "Easy"
+    },
+    "363": {
+      "trans": "Ne",
+      "base": "Us"
+    },
+    "364": {
+      "trans": "Mă culc",
+      "base": "I'm going to sleep"
+    },
+    "365": {
+      "trans": "Parcursul",
+      "base": "During"
+    },
+    "366": {
+      "trans": "Îmbrăţişare",
+      "base": "Hug"
+    },
+    "367": {
+      "trans": "Strâns",
+      "base": "Tight"
+    },
+    "368": {
+      "trans": "Apoi",
+      "base": "Then"
+    },
+    "369": {
+      "trans": "Niște",
+      "base": "Some"
+    },
+    "370": {
+      "trans": "Urmăriți",
+      "base": "Watch"
+    },
+    "371": {
+      "trans": "Ceva",
+      "base": "Something"
+    },
+    "372": {
+      "trans": "Voi face",
+      "base": "I will do (something)"
+    },
+    "373": {
+      "trans": "Te voi",
+      "base": "I will"
+    },
+    "374": {
+      "trans": "Mai târziu",
+      "base": "Later"
+    },
+    "375": {
+      "trans": "Mai",
+      "base": "More"
+    },
+    "376": {
+      "trans": "Târziu",
+      "base": "Late"
+    },
+    "377": {
+      "trans": "Eu face",
+      "base": "I do (something)"
+    },
+    "378": {
+      "trans": "Ajuns",
+      "base": "Arrived"
+    },
+    "379": {
+      "trans": "Să fiu",
+      "base": "To be"
+    },
+    "380": {
+      "trans": "Durat",
+      "base": "Duration"
+    },
+    "381": {
+      "trans": "Că",
+      "base": "That"
+    },
+    "382": {
+      "trans": "Am uitat ",
+      "base": "I forgot"
+    },
+    "383": {
+      "trans": "Părăsit",
+      "base": "Abandoned or left"
+    },
+    "384": {
+      "trans": "Să-mi",
+      "base": "To me"
+    },
+    "385": {
+      "trans": "Si mie",
+      "base": "Me too"
+    },
+    "386": {
+      "trans": "Bucură-te de",
+      "base": "Enjoy"
+    },
+    "387": {
+      "trans": "Bucură",
+      "base": "Joy"
+    },
+    "388": {
+      "trans": "Viaţă",
+      "base": "Life"
+    },
+    "389": {
+      "trans": "Vis",
+      "base": "Dream"
     }
   },
   "phrases": {
@@ -1997,7 +2437,7 @@
     },
     "100320": {
       "trans": "Mihai se trezeşte dimineaţa la ora şapte fără un sfert, la şapte şi jumătate pleacă spre facultate",
-      "base": "Mihai wakes up in the morning at seven without a quarter, at seven and a half he goes to college"
+      "base": "Mihai wakes up in the morning at quarter to seven, at seven and a half he goes to college"
     },
     "100321": {
       "trans": "Marţi, după cursuri, Mihai joacă fotbal timp de două ore",
@@ -2098,6 +2538,142 @@
     "100345": {
       "trans": "Fiecare zi este frumoasă",
       "base": "Every day is beautiful"
+    },
+    "100346": {
+      "trans": "Dormi deja?",
+      "base": "Are you sleeping already?"
+    },
+    "100347": {
+      "trans": "Trezeşte dimineata",
+      "base": "Wake up in the morning"
+    },
+    "100348": {
+      "trans": "La fel și ție",
+      "base": "Same to you"
+    },
+    "100349": {
+      "trans": "Autobuzul a părăsit Baia Mare la 15:30",
+      "base": "The bus left the Baia Mare at 15:30"
+    },
+    "100350": {
+      "trans": "Am uitat că a durat atât de mult",
+      "base": "I forgot it lasted so long"
+    },
+    "100351": {
+      "trans": "Atât de mult",
+      "base": "So much"
+    },
+    "100352": {
+      "trans": "45 de minute ca să fiu acasă",
+      "base": "45 minutes to be home"
+    },
+    "100353": {
+      "trans": "Să-mi scrii când ajungi acasă",
+      "base": "Write to me when you get home"
+    },
+    "100354": {
+      "trans": "Am ajuns în sfârșit",
+      "base": "I'm finally here"
+    },
+    "100355": {
+      "trans": "Voi face un duș și voi mânca ceva",
+      "base": "I'll take a shower and eat something"
+    },
+    "100356": {
+      "trans": "Voi face un duș și voi mânca ceva",
+      "base": "I'll take a shower and eat something"
+    },
+    "100357": {
+      "trans": "Urmăriți niște Netflix și apoi mă culc",
+      "base": "Watch some Netflix and then go to bed"
+    },
+    "100358": {
+      "trans": "Te voi scrie mai târziu",
+      "base": "I'll write to you later"
+    },
+    "100359": {
+      "trans": "Mi-e dor de tine ",
+      "base": "I miss you"
+    },
+    "100360": {
+      "trans": "Ne vedem în curând",
+      "base": "See you soon"
+    },
+    "100361": {
+      "trans": "Eu fac cafea și mă întorc la muncă",
+      "base": "I make coffee and go back to work"
+    },
+    "100362": {
+      "trans": "Am terminat de lucrat astăzi și acum m-am întors de la o lecție de echitație",
+      "base": "I finished working for today and now I'm back from a horse riding lesson"
+    },
+    "100363": {
+      "trans": "Îmi este foarte dor de tine",
+      "base": "I miss you so much"
+    },
+    "100364": {
+      "trans": "Eu nu va trebui",
+      "base": "I won't have to"
+    },
+    "100365": {
+      "trans": "Până la ce ora lucrezi?",
+      "base": "Until what time do you work?"
+    },
+    "100366": {
+      "trans": "Când vei ajunge eu nu va trebui să lucrăm şi ne putem distra",
+      "base": "When you arrive I won't have to work and we can have fun"
+    },
+    "100367": {
+      "trans": "Am venit la magazin să-mi cumpăr mandarine",
+      "base": "I came to the store to buy tangerines"
+    },
+    "100368": {
+      "trans": "De abia aștept sa ne vedem",
+      "base": "I can't wait to see you"
+    },
+    "100369": {
+      "trans": "Cum îți merge ziua?",
+      "base": "How's your day going?"
+    },
+    "100370": {
+      "trans": "Acuma ma îmbrac și merg la o cafea",
+      "base": "Now I get dressed and go for a coffee"
+    },
+    "100371": {
+      "trans": "Luna și stelele mele",
+      "base": "My moon and stars"
+    },
+    "100372": {
+      "trans": "Ce ai mâncat astăzi?",
+      "base": "What did you eat today?"
+    },
+    "100373": {
+      "trans": "Mâncare delicioasă",
+      "base": "Delicious food"
+    },
+    "100374": {
+      "trans": "Așteptând să vă văd",
+      "base": "Waiting to see you"
+    },
+    "100375": {
+      "trans": "Am noroc că te-am cunoscut! ",
+      "base": "I'm lucky I met you!"
+    },
+    "100376": {
+      "trans": "Sper să învăț limba română rapid și putem vorbi mai ușor",
+      "base": "I hope to learn Romanian quickly and we can speak more easily"
+    },
+    "100377": {
+      "trans": "Astăzi voi învăța o mulțime de cuvinte în limba română",
+      "base": "Today I will learn a lot of words in Romanian"
+    },
+    "100378": {
+      "trans": "Parcursul nopții",
+      "base": "During the night"
+    },
+    "100379": {
+      "trans": "Mi-e dor să te îmbrățișezi",
+      "base": "I miss hugging you"
     }
   },
   "conversations": {
