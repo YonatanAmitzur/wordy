@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
+  "version": "2.0",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1379,7 +1379,7 @@
     },
     "345": {
       "trans": "Plec la",
-      "base": "Go to (intuition and towns)"
+      "base": "Go to (institution and towns)"
     },
     "346": {
       "trans": "Cobor din",
@@ -1560,6 +1560,194 @@
     "390": {
       "trans": "Gâdil",
       "base": "Tickle"
+    },
+    "391": {
+      "trans": "Activități",
+      "base": "Activities"
+    },
+    "392": {
+      "trans": "Zilnice",
+      "base": "Daily"
+    },
+    "393": {
+      "trans": "Serviciu",
+      "base": "Work (not a job)"
+    },
+    "394": {
+      "trans": "Ședință",
+      "base": "Work meeting"
+    },
+    "395": {
+      "trans": "Întâlnire",
+      "base": "Friends meeting"
+    },
+    "396": {
+      "trans": "Afaceri",
+      "base": "Business"
+    },
+    "397": {
+      "trans": "Vizitez",
+      "base": "Visit"
+    },
+    "398": {
+      "trans": "Pregătesc",
+      "base": "Prepare"
+    },
+    "399": {
+      "trans": "Deşteptător",
+      "base": "Alaem clock"
+    },
+    "400": {
+      "trans": "Spal",
+      "base": "Wash"
+    },
+    "401": {
+      "trans": "Apoi",
+      "base": "Then"
+    },
+    "402": {
+      "trans": "Șterg",
+      "base": "Dry"
+    },
+    "403": {
+      "trans": "Prosopul",
+      "base": "Towel"
+    },
+    "404": {
+      "trans": "Piaptăn",
+      "base": "Brush"
+    },
+    "405": {
+      "trans": "Gym",
+      "base": "Sala"
+    },
+    "406": {
+      "trans": "De obice",
+      "base": "Usually"
+    },
+    "407": {
+      "trans": "Admira",
+      "base": "Admire"
+    },
+    "408": {
+      "trans": "Se pregăti",
+      "base": "To prepare"
+    },
+    "409": {
+      "trans": "Se scula",
+      "base": "To wake up"
+    },
+    "410": {
+      "trans": "Se pieptăna",
+      "base": "To comb"
+    },
+    "411": {
+      "trans": "Se așeza",
+      "base": "To sit down"
+    },
+    "412": {
+      "trans": "Se duce",
+      "base": "To go"
+    },
+    "413": {
+      "trans": "Se întoarce",
+      "base": "To return"
+    },
+    "414": {
+      "trans": "Se culca",
+      "base": "To sleep"
+    },
+    "415": {
+      "trans": "Eu mă trezesc",
+      "base": "I wake up"
+    },
+    "416": {
+      "trans": "Noi ne trezim",
+      "base": "We are waking up"
+    },
+    "417": {
+      "trans": "Tu te trezești",
+      "base": "You wake up"
+    },
+    "418": {
+      "trans": "Voi vă treziți",
+      "base": "They are waking up"
+    },
+    "419": {
+      "trans": "El / Ea se trezește",
+      "base": "He / She is waking up"
+    },
+    "420": {
+      "trans": "Ei / Ele se trezesc",
+      "base": "They - (masculine)/(feminine) are waking up"
+    },
+    "421": {
+      "trans": "Și imagina",
+      "base": "To imagine"
+    },
+    "422": {
+      "trans": "Și aminti ",
+      "base": "To remember"
+    },
+    "423": {
+      "trans": "Eu îmi amintesc",
+      "base": "I remember"
+    },
+    "424": {
+      "trans": "Noi ne amintim",
+      "base": "We remember"
+    },
+    "425": {
+      "trans": "Tu îți amintești",
+      "base": "You remember"
+    },
+    "426": {
+      "trans": "Voi vă amintiți",
+      "base": "We remember"
+    },
+    "427": {
+      "trans": "El / Ea își amintește",
+      "base": "He / She remember"
+    },
+    "428": {
+      "trans": "Ei / Ele își amintesc",
+      "base": "They - (masculine)/(feminine) remember"
+    },
+    "429": {
+      "trans": "Odihni",
+      "base": "Rest"
+    },
+    "430": {
+      "trans": "Gândi",
+      "base": "Think"
+    },
+    "431": {
+      "trans": "Uita",
+      "base": "Forget"
+    },
+    "432": {
+      "trans": "Spăla",
+      "base": "Wash"
+    },
+    "433": {
+      "trans": "Bărbieri",
+      "base": "Shave"
+    },
+    "434": {
+      "trans": "Grăbi",
+      "base": "Hurry"
+    },
+    "435": {
+      "trans": "Schimba",
+      "base": ""
+    },
+    "436": {
+      "trans": "Change",
+      "base": ""
+    },
+    "437": {
+      "trans": "Spălătoria",
+      "base": "Laundry"
     }
   },
   "phrases": {
@@ -2345,11 +2533,11 @@
     },
     "100296": {
       "trans": "Ce zi este astăzi?",
-      "base": "What's the day is today?"
+      "base": "What is the today?"
     },
     "100297": {
       "trans": "Ce zi este mâine?",
-      "base": "What's the day is tomorrow?"
+      "base": "What is the day tomorrow?"
     },
     "100298": {
       "trans": "Ce zi urmează după marţi?",
@@ -2361,11 +2549,11 @@
     },
     "100300": {
       "trans": "Astăzi este vineri, Ce zi este mâine?",
-      "base": "Today is Friday, What's the day is tomorrow?"
+      "base": "Today is Friday, What is the day tomorrow?"
     },
     "100301": {
       "trans": "Poimâine este joi, Ce zi este azi?",
-      "base": "The day after tomorrow is Thursday, what's the day is today?"
+      "base": "The day after tomorrow is Thursday, what is the day today?"
     },
     "100302": {
       "trans": "Iernile sunt geroase, cu temperaturi de minus 30 de grade Celsius",
@@ -2461,7 +2649,7 @@
     },
     "100325": {
       "trans": "Sapatamana vitoare eu merg la plimbare",
-      "base": "I will go for a walk next week"
+      "base": "next week I will go for a walk"
     },
     "100326": {
       "trans": "Eu merg la plimbare saptamana vitoare",
@@ -2678,6 +2866,162 @@
     "100379": {
       "trans": "Mi-e dor să te îmbrățișezi",
       "base": "I miss hugging you"
+    },
+    "100380": {
+      "trans": "Sună ceasul deşteptător. Maria se trezeşte",
+      "base": " The alarm clock rings. Maria wakes up"
+    },
+    "100381": {
+      "trans": "Eu ma trezesc la ora sapte si jumatate",
+      "base": "I wake up at 7:30"
+    },
+    "100382": {
+      "trans": "Eu fac dus",
+      "base": "I take a shower"
+    },
+    "100383": {
+      "trans": "Eu ma imbrac",
+      "base": "I get dressed"
+    },
+    "100384": {
+      "trans": "Îmi fac toaleta, Ma spal pe faţă, apoi pe dinţi, ma şterg cu prosopul, ma piaptăn",
+      "base": "I go toilet, wash my face, brush my teeth, dry myself with towel, brush my hair"
+    },
+    "100385": {
+      "trans": "Eu iua micul dejun",
+      "base": "I have breakfast"
+    },
+    "100386": {
+      "trans": "Ma intorc de la lucru",
+      "base": "I come back from work"
+    },
+    "100387": {
+      "trans": "Eu ma trazesc tarziu",
+      "base": "I wake up late"
+    },
+    "100388": {
+      "trans": "Am mâncat prea mult azi",
+      "base": "I ate to much today"
+    },
+    "100389": {
+      "trans": "Ce activități zilnice are George? ",
+      "base": "What daily activities does George have?"
+    },
+    "100390": {
+      "trans": "Luni: merg la serviciu, beau o cafea, am o ședință, scriu niște emailuri, fac sport",
+      "base": "On Monday: I go to the work, I have a coffee, I have a meeting, I write some emails, I play sports"
+    },
+    "100391": {
+      "trans": "Marți: am cursul de franceză, lucrez la computer, am o întâlnire cu niște prieteni.",
+      "base": "On Tuesday: I have a French class, I work on the computer, I have a meeting with some friends"
+    },
+    "100392": {
+      "trans": "Miercuri: am niște întâlniri de afaceri, merg la cursul de dans, iau cina cu niște colegi",
+      "base": "On Wednesday: I have some business meetings, I go to a dance class, I have dinner with some colleagues"
+    },
+    "100393": {
+      "trans": "Joi: merg la birou, scriu un raport, merg la un bar cu niște prieteni",
+      "base": "On Thursday: I go to the office, I write a raport, I go to a bar with some friends"
+    },
+    "100994": {
+      "trans": "Vineri: plec din București, merg la munte, admir natura, mă plimb",
+      "base": "On Friday: I leave Bucharest, I go to the mountains, I admire nature, I walk"
+    },
+    "100395": {
+      "trans": "Sâmbătă: vizitez castelul Bran, iau masa la un restaurant, mă pregătesc să revin în București",
+      "base": "On Saturday: I visit Bran castle, I eat in a restaurant, I prepare to return to Bucharest"
+    },
+    "100396": {
+      "trans": "Duminică: revin în București, merg 4 ore cu mașina, mă pregătesc pentru săptămâna următoare",
+      "base": "On Sunday: I go back to Bucharest, I go 4 hours by car, I prepare for next week"
+    },
+    "100397": {
+      "trans": "Care este programul dumneavoastră zilnic?",
+      "base": "What is your daily program?"
+    },
+    "100398": {
+      "trans": "Ce faceți în weekend de obicei?",
+      "base": "What are you doing at weekends usually?"
+    },
+    "100399": {
+      "trans": "Când mergeți la film / la teatru?",
+      "base": "When do you go to the film / theater?"
+    },
+    "100400": {
+      "trans": "Când învățați limba română?",
+      "base": "When do you learn Romanian language?"
+    },
+    "100401": {
+      "trans": "Sună ceasul deşteptător, Maria se trezeşte",
+      "base": "The alarm clock rings, Maria wakes up"
+    },
+    "100402": {
+      "trans": "Ea se duce la şcoală",
+      "base": "She's going to school"
+    },
+    "100403": {
+      "trans": "Ea se întoarce de la şcoală",
+      "base": "She's coming back from school"
+    },
+    "100404": {
+      "trans": "El isi face temele",
+      "base": "He does his homework"
+    },
+    "100405": {
+      "trans": "Maria se uită la televizor",
+      "base": "Maria is watching TV"
+    },
+    "100406": {
+      "trans": "Maria are curs de",
+      "base": "Maria is taking a course"
+    },
+    "100407": {
+      "trans": "Maria are un curs de biologie",
+      "base": "Maria has a biology class"
+    },
+    "100408": {
+      "trans": "Mi-e dor să te gâdil",
+      "base": "I miss tickling you"
+    },
+    "100409": {
+      "trans": "Gândit la o nouă idee pentru o aplicație care poate funcționa cu adevărat bine și este destul de simplu de dezvoltat",
+      "base": "Thought of a new idea for an application that can work really well and is quite simple to develop"
+    },
+    "100410": {
+      "trans": "Ce tip de aplicație?",
+      "base": "What kind of application?"
+    },
+    "100411": {
+      "trans": "Mă gândesc la o idee care ar fi simplu de dezvoltat și care ar fi rapid de dezvoltat",
+      "base": "I'm thinking of an idea that would be simple to develop and that would be quick to develop"
+    },
+    "100412": {
+      "trans": "Ar fi mult mai ușor să explici față în față",
+      "base": "It would be much easier to explain face to face"
+    },
+    "100413": {
+      "trans": "Mă inspiri atât de mult",
+      "base": "You inspire me so much"
+    },
+    "100414": {
+      "trans": "Eu vreau să fiu cu tine!",
+      "base": "I want to be with you!"
+    },
+    "100415": {
+      "trans": "Eu fac spalaturi acum",
+      "base": "I'm doing laundry now"
+    },
+    "100416": {
+      "trans": " Vii la mine mâine",
+      "base": "You coming to me tomorrow"
+    },
+    "100417": {
+      "trans": "Eu cred ca vin mâine",
+      "base": "I think I'm coming tomorrow"
+    },
+    "100418": {
+      "trans": "Eu am venit sa mănânc cu Izabela și Adeca",
+      "base": "I came to eat with Jezebel and Adeca"
     }
   },
   "conversations": {
