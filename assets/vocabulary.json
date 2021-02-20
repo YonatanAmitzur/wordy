@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1595,10 +1595,10 @@
     },
     "399": {
       "trans": "Deşteptător",
-      "base": "Alaem clock"
+      "base": "Alarm clock"
     },
     "400": {
-      "trans": "Spal",
+      "trans": "Sa spal",
       "base": "Wash"
     },
     "401": {
@@ -1618,8 +1618,8 @@
       "base": "Brush"
     },
     "405": {
-      "trans": "Gym",
-      "base": "Sala"
+      "trans": "Sala",
+      "base": "Gym"
     },
     "406": {
       "trans": "De obice",
@@ -1635,7 +1635,7 @@
     },
     "409": {
       "trans": "Se scula",
-      "base": "To wake up"
+      "base": "To get up"
     },
     "410": {
       "trans": "Se pieptăna",
@@ -1679,7 +1679,7 @@
     },
     "420": {
       "trans": "Ei / Ele se trezesc",
-      "base": "They - (masculine)/(feminine) are waking up"
+      "base": "They - (masculine / feminine) are waking up"
     },
     "421": {
       "trans": "Și imagina",
@@ -1711,7 +1711,7 @@
     },
     "428": {
       "trans": "Ei / Ele își amintesc",
-      "base": "They - (masculine)/(feminine) remember"
+      "base": "They - (masculine / feminine) remember"
     },
     "429": {
       "trans": "Odihni",
@@ -1739,11 +1739,11 @@
     },
     "435": {
       "trans": "Schimba",
-      "base": ""
+      "base": "Change"
     },
     "436": {
-      "trans": "Change",
-      "base": ""
+      "trans": "la iluminat",
+      "base": "To cry"
     },
     "437": {
       "trans": "Spălătoria",
