@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1599,7 +1599,7 @@
     },
     "400": {
       "trans": "Sa spal",
-      "base": "Wash"
+      "base": "To wash"
     },
     "401": {
       "trans": "Apoi",
@@ -3012,8 +3012,8 @@
       "base": "I'm doing laundry now"
     },
     "100416": {
-      "trans": " Vii la mine mâine",
-      "base": "You coming to me tomorrow"
+      "trans": "Vii la mine mâine",
+      "base": "You are coming to me tomorrow"
     },
     "100417": {
       "trans": "Eu cred ca vin mâine",
