@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "words": {
     "1": {
       "trans": "Salut",
@@ -1748,6 +1748,458 @@
     "437": {
       "trans": "Spălătoria",
       "base": "Laundry"
+    },
+    "438": {
+      "trans": "Ciupercă / Ciuperci",
+      "base": "Mushroom / Mushrooms"
+    },
+    "439": {
+      "trans": "Pară / Pere",
+      "base": "Pear / Pears"
+    },
+    "440": {
+      "trans": "Unt / Unturi",
+      "base": "Butter / Butters"
+    },
+    "441": {
+      "trans": "Cereală",
+      "base": "Cereal"
+    },
+    "442": {
+      "trans": "Zahăr",
+      "base": "Sugar"
+    },
+    "443": {
+      "trans": "Miere",
+      "base": "Honey"
+    },
+    "444": {
+      "trans": "Cartof / Cartofi",
+      "base": "Potato / Potatos"
+    },
+    "445": {
+      "trans": "Costiţă",
+      "base": "Bacon"
+    },
+    "446": {
+      "trans": "Vită",
+      "base": "Beef"
+    },
+    "447": {
+      "trans": "Afumată",
+      "base": "Smoked"
+    },
+    "448": {
+      "trans": "Fiartă",
+      "base": "Boiled"
+    },
+    "449": {
+      "trans": "Miel",
+      "base": "Lamb"
+    },
+    "450": {
+      "trans": "Cârnat",
+      "base": "Sausage"
+    },
+    "451": {
+      "trans": "Friptură",
+      "base": "Steak"
+    },
+    "452": {
+      "trans": "Viţel",
+      "base": "Veal"
+    },
+    "453": {
+      "trans": "Gâscă",
+      "base": "Goose"
+    },
+    "454": {
+      "trans": "Joc",
+      "base": "Game"
+    },
+    "455": {
+      "trans": "Curcan",
+      "base": "Turkey"
+    },
+    "456": {
+      "trans": "Iepure",
+      "base": "Rabbit"
+    },
+    "457": {
+      "trans": "Verdeaţă",
+      "base": "Greens"
+    },
+    "458": {
+      "trans": "Castravete",
+      "base": "Cucumber"
+    },
+    "459": {
+      "trans": "Morcov",
+      "base": "Carrot"
+    },
+    "460": {
+      "trans": "Ceapă",
+      "base": "Onion"
+    },
+    "461": {
+      "trans": "Usturoi",
+      "base": "Garlic"
+    },
+    "462": {
+      "trans": "Varză",
+      "base": "Cabbage"
+    },
+    "463": {
+      "trans": "Conopidă",
+      "base": "Cauliflower"
+    },
+    "464": {
+      "trans": "Brocoli",
+      "base": "Broccoli"
+    },
+    "465": {
+      "trans": "Sfeclă",
+      "base": "Beet"
+    },
+    "466": {
+      "trans": "Vânătă",
+      "base": "Eggplant"
+    },
+    "467": {
+      "trans": "Dovlecel",
+      "base": "Zucchini"
+    },
+    "468": {
+      "trans": "Dovleac",
+      "base": "Pumpkin"
+    },
+    "469": {
+      "trans": "Ridiche",
+      "base": "Turnip"
+    },
+    "470": {
+      "trans": "Pătrunjel",
+      "base": "Parsley"
+    },
+    "471": {
+      "trans": "Coriandru",
+      "base": "Coriander"
+    },
+    "472": {
+      "trans": "Mărar",
+      "base": "Dill"
+    },
+    "473": {
+      "trans": "Salată",
+      "base": "Lettuce"
+    },
+    "474": {
+      "trans": "Țelină",
+      "base": "Celery"
+    },
+    "475": {
+      "trans": "Sparanghel",
+      "base": "Asparagus"
+    },
+    "476": {
+      "trans": "Spanac",
+      "base": "Spinach"
+    },
+    "477": {
+      "trans": "Gulie",
+      "base": "Kohlrabi"
+    },
+    "478": {
+      "trans": "Împreună",
+      "base": "Together"
+    },
+    "479": {
+      "trans": "Culcare",
+      "base": "Sleep"
+    },
+    "480": {
+      "trans": "Cifre",
+      "base": "Digits"
+    },
+    "481": {
+      "trans": "Folosind",
+      "base": "Use"
+    },
+    "482": {
+      "trans": "Frică",
+      "base": "Afraid"
+    },
+    "483": {
+      "trans": "Mazăre",
+      "base": "Green peas"
+    },
+    "484": {
+      "trans": "Porumb",
+      "base": "Corn"
+    },
+    "485": {
+      "trans": "Ulei",
+      "base": "Oil"
+    },
+    "486": {
+      "trans": "Măsline",
+      "base": "Olives"
+    },
+    "487": {
+      "trans": "Costă mult",
+      "base": "Cost much"
+    },
+    "488": {
+      "trans": "Eu manânc",
+      "base": "I eat"
+    },
+    "489": {
+      "trans": "Eu cumpăr",
+      "base": "I buy"
+    },
+    "490": {
+      "trans": "Eu pregătesc",
+      "base": "i prepare"
+    },
+    "491": {
+      "trans": "Tu manânci",
+      "base": "You eat"
+    },
+    "492": {
+      "trans": "Tu cumperi",
+      "base": "You buy"
+    },
+    "493": {
+      "trans": "Tu pregătești",
+      "base": "You prepare"
+    },
+    "494": {
+      "trans": "El / ea manâncă",
+      "base": "He / she eat"
+    },
+    "495": {
+      "trans": "El / ea cumpără",
+      "base": "He / she buy"
+    },
+    "496": {
+      "trans": "El/ ea pregătește",
+      "base": "He / she prepare"
+    },
+    "497": {
+      "trans": "Noi mâncăm",
+      "base": "We eat"
+    },
+    "498": {
+      "trans": "Noi cumpărăm",
+      "base": "We buy"
+    },
+    "499": {
+      "trans": "Noi pregătim",
+      "base": "We prepare"
+    },
+    "500": {
+      "trans": "Voi mâncați",
+      "base": "They eat"
+    },
+    "501": {
+      "trans": "Voi cumpărați",
+      "base": "They buy"
+    },
+    "502": {
+      "trans": "Voi pregătiți",
+      "base": "They prepare"
+    },
+    "503": {
+      "trans": "Ei/ele manâncă",
+      "base": "They - (masculine / feminine) eat"
+    },
+    "504": {
+      "trans": "Ei/ele cumpără",
+      "base": "They - (masculine / feminine) buy"
+    },
+    "505": {
+      "trans": "Ei/ele pregătesc",
+      "base": "They - (masculine / feminine) prepare"
+    },
+    "506": {
+      "trans": "Alimente",
+      "base": "Groceries"
+    },
+    "507": {
+      "trans": "Linte",
+      "base": "Lentil"
+    },
+    "508": {
+      "trans": "Îmi place",
+      "base": "I like"
+    },
+    "509": {
+      "trans": "Yogurt",
+      "base": "Iaurt"
+    },
+    "510": {
+      "trans": "Oaie",
+      "base": "Sheep"
+    },
+    "511": {
+      "trans": "Ciocolată",
+      "base": "Chocolate"
+    },
+    "512": {
+      "trans": "Covrig",
+      "base": "Pretzel"
+    },
+    "513": {
+      "trans": "Lipie",
+      "base": "Pita"
+    },
+    "514": {
+      "trans": "Biscuiți",
+      "base": "Biscuits"
+    },
+    "515": {
+      "trans": "Gogoși",
+      "base": "Doughnuts"
+    },
+    "516": {
+      "trans": "Caju",
+      "base": "Cashew"
+    },
+    "517": {
+      "trans": "Migdală",
+      "base": "Almond"
+    },
+    "518": {
+      "trans": "Nucă",
+      "base": "Nut"
+    },
+    "519": {
+      "trans": "Alună",
+      "base": "Hazel nut"
+    },
+    "520": {
+      "trans": "Cresc",
+      "base": "grow"
+    },
+    "521": {
+      "trans": "Cireșe",
+      "base": "Cherries"
+    },
+    "522": {
+      "trans": "Zmeură",
+      "base": "Raspberries"
+    },
+    "523": {
+      "trans": "Afine",
+      "base": "Blueberries"
+    },
+    "524": {
+      "trans": "Căpșune",
+      "base": "Strawberries"
+    },
+    "525": {
+      "trans": "Lămâie",
+      "base": "Lemon"
+    },
+    "526": {
+      "trans": "Lămâie verde",
+      "base": "Lime"
+    },
+    "527": {
+      "trans": "Măr",
+      "base": "Apple"
+    },
+    "528": {
+      "trans": "Banană",
+      "base": "Banana"
+    },
+    "529": {
+      "trans": "Struguri",
+      "base": "Grapes"
+    },
+    "530": {
+      "trans": "Grepfrut",
+      "base": "Grapefruit"
+    },
+    "531": {
+      "trans": "Pepene verde",
+      "base": "Watermelon"
+    },
+    "532": {
+      "trans": "Piersică",
+      "base": "Peach"
+    },
+    "533": {
+      "trans": "Gutuie",
+      "base": "Quince"
+    },
+    "534": {
+      "trans": "Caisă",
+      "base": "Apricot"
+    },
+    "535": {
+      "trans": "Vişine",
+      "base": "Cherry"
+    },
+    "536": {
+      "trans": "Prună",
+      "base": "Plum"
+    },
+    "537": {
+      "trans": "Mure",
+      "base": "Blackberry"
+    },
+    "538": {
+      "trans": "Dudă",
+      "base": "Mulberry"
+    },
+    "539": {
+      "trans": "Mandarină",
+      "base": "Tangerine"
+    },
+    "540": {
+      "trans": "Castane",
+      "base": "Chestnuts"
+    },
+    "541": {
+      "trans": "Cocos",
+      "base": "Coconuts"
+    },
+    "542": {
+      "trans": "Curmală",
+      "base": "Date"
+    },
+    "543": {
+      "trans": "Smochină",
+      "base": "Fig"
+    },
+    "544": {
+      "trans": "Arahide",
+      "base": "Peanuts"
+    },
+    "545": {
+      "trans": "Pepene",
+      "base": "Melon"
+    },
+    "546": {
+      "trans": "Ananas",
+      "base": "Pineapple"
+    },
+    "547": {
+      "trans": "Rodie",
+      "base": "Pomegranate"
+    },
+    "548": {
+      "trans": "Lubeniţă",
+      "base": "Watermelon"
+    },
+    "549": {
+      "trans": "Avocado",
+      "base": "Avocado"
+    },
+    "550": {
+      "trans": "Mango",
+      "base": "Mango"
     }
   },
   "phrases": {
@@ -3022,6 +3474,66 @@
     "100418": {
       "trans": "Eu am venit sa mănânc cu Izabela și Adeca",
       "base": "I came to eat with Jezebel and Adeca"
+    },
+    "100419": {
+      "trans": "Ce vreţi să mâncaţi?",
+      "base": "What do you want to eat?"
+    },
+    "100420": {
+      "trans": "Aşteptaţi un moment",
+      "base": "Wait one moment"
+    },
+    "100421": {
+      "trans": "Vreau să mănânc ciuperci",
+      "base": "I want to eat mushrooms"
+    },
+    "100422": {
+      "trans": "Radu merge la cumpărături, el are o listă cu legume",
+      "base": "Radu goes shopping, he has a list of vegetables"
+    },
+    "100423": {
+      "trans": "Ema este la magazin, ea a cumpărat pentru micul dejun: lapte, unt și ouă",
+      "base": "Emma is at the store, she bought for breakfast: milk, butter and eggs"
+    },
+    "100424": {
+      "trans": "Câtă apă bei într-o zi?",
+      "base": "How much water did you drink in a day?"
+    },
+    "100425": {
+      "trans": "Câte fructe mănânci într-o zi?",
+      "base": "How much fruit did you eat in a day?"
+    },
+    "100426": {
+      "trans": "Câtă cafea bei dimineata?",
+      "base": "How much coffee do you drink in the morning?"
+    },
+    "100427": {
+      "trans": "Câte legume mănânci într-o săptămână?",
+      "base": "How many vegetables do you eat in a week?"
+    },
+    "100428": {
+      "trans": "Cât orez consumi într-un an?",
+      "base": "How much rice do you eat in a year?"
+    },
+    "100429": {
+      "trans": "Cât ceai bei într-o zi?",
+      "base": "How much tea do you drink in a day?"
+    },
+    "100430": {
+      "trans": "Ce vrei să bei? Un pahar suc de pere",
+      "base": "What do you want to drink? A glass of pear juice"
+    },
+    "100431": {
+      "trans": "Aș mânca un măr",
+      "base": "I would eat an apple"
+    },
+    "100432": {
+      "trans": "Salut, astăzi mâncăm împreună?",
+      "base": "Hi, today we eat together?"
+    },
+    "100433": {
+      "trans": "Ce să pregătesc pentru cină?",
+      "base": "What to prepare for dinner?"
     }
   },
   "conversations": {
